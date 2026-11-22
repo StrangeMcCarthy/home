@@ -39,18 +39,18 @@ export const Navbar: React.FC<NavbarProps> = ({
     <header className="sticky top-0 z-40 shadow-sm transition-all duration-300">
       {/* Main Navigation Bar */}
       <nav className="glass-panel bg-cozy-50/95 border-b border-cozy-200/60 backdrop-blur-md">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center h-20">
+        <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8">
+          <div className="flex justify-between items-center h-16 sm:h-20">
 
             {/* Logo Image */}
             <div
               onClick={() => handleNavClick('home')}
-              className="flex items-center cursor-pointer group py-2"
+              className="flex items-center cursor-pointer group py-1"
             >
               <img
                 src="/mobile-homes-logo.png"
                 alt="Mobile Homes Logo"
-                className="h-14 sm:h-16 w-auto object-contain group-hover:scale-105 transition-transform duration-300"
+                className="h-10 sm:h-14 md:h-16 w-auto max-w-[170px] sm:max-w-none object-contain group-hover:scale-105 transition-transform duration-300"
               />
             </div>
 
@@ -102,15 +102,16 @@ export const Navbar: React.FC<NavbarProps> = ({
               </button>
             </div>
 
-            {/* Mobile Hamburger Toggle */}
-            <div className="flex items-center space-x-3 lg:hidden">
+            {/* Mobile Actions & Hamburger Toggle */}
+            <div className="flex items-center space-x-2 sm:space-x-3 lg:hidden">
               <button
                 onClick={onOpenFavorites}
-                className="relative p-2 rounded-lg text-cozy-700 hover:bg-cozy-100"
+                className="relative p-2 rounded-xl text-cozy-700 hover:bg-cozy-100 transition-colors"
+                title="Saved Favorite Homes"
               >
-                <Heart className={`w-6 h-6 ${favorites.length > 0 ? 'fill-hearth-500 text-hearth-500' : ''}`} />
+                <Heart className={`w-5.5 h-5.5 ${favorites.length > 0 ? 'fill-hearth-500 text-hearth-500' : ''}`} />
                 {favorites.length > 0 && (
-                  <span className="absolute top-0 right-0 w-4 h-4 bg-hearth-600 text-white text-[10px] font-bold rounded-full flex items-center justify-center">
+                  <span className="absolute top-0.5 right-0.5 w-4 h-4 bg-hearth-600 text-white text-[10px] font-bold rounded-full flex items-center justify-center">
                     {favorites.length}
                   </span>
                 )}
@@ -119,6 +120,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <button
                 onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
                 className="p-2 rounded-xl text-cozy-800 hover:bg-cozy-100 transition-colors focus:outline-none"
+                aria-label="Toggle Navigation Menu"
               >
                 {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
               </button>
@@ -129,12 +131,12 @@ export const Navbar: React.FC<NavbarProps> = ({
 
         {/* Mobile Dropdown Menu */}
         {mobileMenuOpen && (
-          <div className="lg:hidden border-t border-cozy-200 bg-cozy-50 px-4 pt-3 pb-6 space-y-3 animate-fade-in shadow-lg">
+          <div className="lg:hidden border-t border-cozy-200 bg-cozy-50/98 px-4 pt-3 pb-6 space-y-2 animate-fade-in shadow-xl max-h-[85vh] overflow-y-auto">
             {navLinks.map((link) => (
               <button
                 key={link.path}
                 onClick={() => handleNavClick(link.path)}
-                className={`block w-full text-left px-4 py-2.5 rounded-xl text-base font-semibold transition-colors ${
+                className={`block w-full text-left px-4 py-3 rounded-xl text-base font-semibold transition-colors ${
                   currentPath === link.path
                     ? 'bg-hearth-100 text-hearth-800 font-bold'
                     : 'text-cozy-800 hover:bg-cozy-100'
@@ -150,7 +152,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   onOpenQuoteModal();
                   setMobileMenuOpen(false);
                 }}
-                className="w-full bg-hearth-600 hover:bg-hearth-700 text-white font-semibold py-3 rounded-xl shadow text-center"
+                className="w-full bg-hearth-600 hover:bg-hearth-700 text-white font-semibold py-3.5 rounded-xl shadow text-center"
               >
                 Request Custom Quote
               </button>
@@ -158,7 +160,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 onClick={() => {
                   handleNavClick('stores');
                 }}
-                className="w-full border border-cozy-300 text-cozy-800 font-semibold py-2.5 rounded-xl text-center flex items-center justify-center space-x-2"
+                className="w-full border border-cozy-300 text-cozy-800 font-semibold py-3 rounded-xl text-center flex items-center justify-center space-x-2"
               >
                 <span>Find Display Store</span>
               </button>
