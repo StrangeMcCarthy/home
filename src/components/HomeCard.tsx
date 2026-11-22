@@ -18,16 +18,21 @@ export const HomeCard: React.FC<HomeCardProps> = ({
   onSelectCustomizer,
 }) => {
   const [currentImgIndex, setCurrentImgIndex] = useState(0);
+  const [imgError, setImgError] = useState<boolean>(false);
 
   const nextImage = (e: React.MouseEvent) => {
     e.stopPropagation();
     setCurrentImgIndex((prev) => (prev + 1) % home.images.length);
+    setImgError(false);
   };
 
   const prevImage = (e: React.MouseEvent) => {
     e.stopPropagation();
     setCurrentImgIndex((prev) => (prev - 1 + home.images.length) % home.images.length);
+    setImgError(false);
   };
+
+  const fallbackImage = 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80';
 
   return (
     <div className="group bg-white rounded-3xl overflow-hidden border border-cozy-200/90 shadow-cozy hover:shadow-cozy-lg transition-all duration-300 flex flex-col h-full transform hover:-translate-y-1">
@@ -35,8 +40,11 @@ export const HomeCard: React.FC<HomeCardProps> = ({
       {/* Image Container */}
       <div className="relative aspect-[4/3] bg-cozy-100 overflow-hidden cursor-pointer" onClick={() => onQuickView(home)}>
         <img
-          src={home.images[currentImgIndex]}
+          src={imgError ? fallbackImage : (home.images[currentImgIndex] || fallbackImage)}
           alt={home.name}
+          loading="lazy"
+          decoding="async"
+          onError={() => setImgError(true)}
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
         />
 

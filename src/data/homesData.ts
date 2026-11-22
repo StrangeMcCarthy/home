@@ -2291,7 +2291,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 159,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "DeerValley",
       "Hamilton",
@@ -2312,7 +2312,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 153,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "DeerValley",
       "Hamilton",
@@ -2333,7 +2333,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 131,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Leesville",
       "Hamilton | Xpress",
@@ -2354,7 +2354,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.7,
     "reviewsCount": 108,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "Franklin",
@@ -2375,7 +2375,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 120,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Benton",
       "Hamilton",
@@ -2396,7 +2396,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 124,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "DeerValley",
@@ -2417,7 +2417,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 107,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Kabco",
@@ -2438,7 +2438,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 81,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "Kabco",
@@ -2459,7 +2459,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 45,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "DeerValley",
@@ -2480,7 +2480,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 78,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Kabco",
@@ -2501,7 +2501,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 71,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "DeerValley",
       "Skyline Builders LLC",
@@ -2522,7 +2522,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 125,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Clayton|TruMH",
       "Hamilton",
@@ -2543,7 +2543,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 72,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "Clayton|TruMH",
@@ -2564,7 +2564,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.7,
     "reviewsCount": 143,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Hamilton",
@@ -2585,7 +2585,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.7,
     "reviewsCount": 134,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Kabco",
       "Clayton|Southern Energy",
@@ -2606,7 +2606,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.7,
     "reviewsCount": 57,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Hamilton",
       "Winston",
@@ -2627,7 +2627,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 106,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Hamilton",
       "Winston",
@@ -2648,7 +2648,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 132,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "DeerValley",
       "Hamilton",
@@ -2669,7 +2669,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 123,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "Hamilton",
@@ -2690,7 +2690,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 68,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "Kabco",
@@ -2711,7 +2711,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 148,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Clayton|TruMH",
@@ -2732,7 +2732,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 131,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Hamilton",
@@ -2753,7 +2753,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 140,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Hamilton",
       "Winston",
@@ -2774,7 +2774,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 135,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Hamilton",
       "Winston",
@@ -2795,7 +2795,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 108,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Winston",
       "Champion|Leesville",
@@ -2816,7 +2816,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 49,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "Winston",
@@ -2837,7 +2837,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 150,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Winston",
       "Hamilton | Xpress",
@@ -2858,7 +2858,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 72,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "Franklin",
@@ -2879,7 +2879,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 71,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Hamilton",
@@ -2900,7 +2900,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.7,
     "reviewsCount": 49,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Winston",
       "Hamilton | Xpress",
@@ -2921,7 +2921,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.7,
     "reviewsCount": 90,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "ScotBilt",
@@ -2942,7 +2942,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 117,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Hamilton",
       "Winston",
@@ -2963,7 +2963,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 149,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "Hamilton",
@@ -2984,7 +2984,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 116,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Winston",
@@ -3005,7 +3005,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 71,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "DeerValley",
@@ -3026,7 +3026,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 160,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "ScotBilt",
@@ -3047,7 +3047,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 94,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Dresden",
       "Franklin",
@@ -3068,7 +3068,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 130,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Hamilton",
@@ -3089,7 +3089,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 127,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Clayton|Patriot - SE Homes/CMH",
@@ -3110,7 +3110,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 128,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Franklin",
       "Hamilton",
@@ -3131,7 +3131,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.7,
     "reviewsCount": 53,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Winston",
       "Champion|Leesville",
@@ -3152,7 +3152,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 5,
     "reviewsCount": 151,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Hamilton"
     ],
@@ -3170,7 +3170,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 107,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Winston",
       "Champion|Leesville",
@@ -3191,7 +3191,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 48,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "ScotBilt",
       "Champion|Millen",
@@ -3211,7 +3211,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 160,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "ScotBilt",
       "Skyline Builders LLC",
@@ -3232,7 +3232,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 91,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Benton",
       "Winston",
@@ -3253,7 +3253,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 123,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Hamilton",
       "Winston",
@@ -3274,7 +3274,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 52,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "DeerValley",
       "Franklin",
@@ -3295,7 +3295,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 161,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Skyline Builders LLC",
       "Hamilton",
@@ -3316,7 +3316,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 162,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Winston",
       "Champion|Lillington",
@@ -3337,7 +3337,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.8,
     "reviewsCount": 137,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Lillington",
       "Champion|Laurinburg",
@@ -3357,7 +3357,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 79,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Topeka"
     ],
@@ -3375,7 +3375,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 133,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Adventure",
       "Champion|Topeka",
@@ -3395,7 +3395,7 @@ export const RETAILER_STORES: RetailerStore[] = [
     "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
     "rating": 4.9,
     "reviewsCount": 101,
-    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "modelsOnDisplay": [
       "Champion|Topeka",
       "Champion|Decatur",
@@ -3416,7 +3416,7 @@ export const RESOURCE_ARTICLES: ResourceArticle[] = [
     date: 'March 14, 2025',
     summary: 'Everything you need to know about soil grading, utility hookups, driveway access, and local zoning permits before your home delivery day.',
     content: 'Preparing your land is one of the most exciting steps in your homebuyer journey. A properly cleared and leveled site ensures your manufactured or modular home sits perfectly stable for decades to come...',
-    image: 'https://regionalhomes.wpengine.com/wp-content/uploads/2023/10/post-2-featured.jpg',
+    image: 'https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80',
     author: 'Sarah Jenkins, Director of Site Development'
   },
   {
@@ -3427,7 +3427,7 @@ export const RESOURCE_ARTICLES: ResourceArticle[] = [
     date: 'February 28, 2025',
     summary: 'Demystifying section types, floor plans, building codes, and price points so you can confidently pick the right fit for your family.',
     content: 'Navigating the choices between manufactured and modular homes can feel overwhelming at first. Here is a clear breakdown of structural differences, financing options, and long-term resale value...',
-    image: 'https://regionalhomes.wpengine.com/wp-content/uploads/2023/10/home-homebuyers.png',
+    image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80',
     author: 'David Vance, Senior Housing Specialist'
   },
   {
@@ -3464,7 +3464,7 @@ export const CUSTOMER_REVIEWS: CustomerReview[] = [
     homeModelBought: 'The Basecamp Lodge',
     quote: 'From the moment we stepped into the showroom, Hearth & Haven felt like family. Our Basecamp Lodge is so cozy and warm!',
     story: 'We were nervous about buying our first home, but the team walked us through land prep, financing, and customization. The kitchen island and wrap-around porch are our favorite places to start the morning with coffee.',
-    photo: 'https://regionalhomes.wpengine.com/wp-content/uploads/2026/04/Valerie-Testimonial-1.png',
+    photo: 'https://images.unsplash.com/photo-1542037104857-ffbb0b9155fb?auto=format&fit=crop&w=600&q=80',
     verifiedBuyer: true
   },
   {
@@ -3476,7 +3476,7 @@ export const CUSTOMER_REVIEWS: CustomerReview[] = [
     homeModelBought: 'The Woodside',
     quote: 'The craftsmanship is unbelievable. The stone fireplace and dual master suites exceeded all our expectations.',
     story: 'We built on 10 acres of woodland. The energy efficiency is incredible—our power bills this winter were lower than our previous small apartment!',
-    photo: 'https://regionalhomes.wpengine.com/wp-content/uploads/2026/07/399A3095-Enhanced-NR.jpg',
+    photo: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80',
     verifiedBuyer: true
   },
   {
@@ -3488,7 +3488,7 @@ export const CUSTOMER_REVIEWS: CustomerReview[] = [
     homeModelBought: 'The Marsh Ridge Coastal',
     quote: 'Turnkey delivery in 4 weeks! Smooth, stress-free, and delightfully affordable.',
     story: 'We traded in our 2012 single-wide and received a fantastic trade-in allowance toward The Marsh Ridge. Our kids love their new bedrooms!',
-    photo: 'https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg',
+    photo: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80',
     verifiedBuyer: true
   }
 ];

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { ArrowRight, Sparkles, MapPin, CheckCircle2 } from 'lucide-react';
 
 interface HeroProps {
@@ -7,20 +7,35 @@ interface HeroProps {
 }
 
 export const Hero: React.FC<HeroProps> = ({ onExploreClick, onStoreClick }) => {
+  const [heroImgSrc, setHeroImgSrc] = useState<string>(
+    'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=2000&q=80'
+  );
+
+  const handleHeroError = () => {
+    setHeroImgSrc(
+      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=80'
+    );
+  };
+
   return (
     <div className="relative overflow-hidden bg-cozy-900 text-white min-h-[580px] lg:min-h-[640px] flex items-center">
       {/* Background Image with Warm Overlay */}
-      <div className="absolute inset-0 z-0">
+      <div className="absolute inset-0 z-0 bg-cozy-950">
         <img
-          src="https://regionalhomes.wpengine.com/wp-content/uploads/2023/12/homepage-hero.jpg"
-          alt="Cozy Modern Pre-Made Manufactured Home Exterior"
-          className="w-full h-full object-cover object-center scale-105 transform brightness-90 transition-transform duration-10000 animate-pulse-warm"
+          src={heroImgSrc}
+          onError={handleHeroError}
+          alt="Cozy Modern Manufactured Home Exterior"
+          loading="eager"
+          decoding="async"
+          // @ts-ignore
+          fetchPriority="high"
+          className="w-full h-full object-cover object-center scale-105 transform brightness-90 transition-opacity duration-500"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-cozy-950/90 via-cozy-900/75 to-transparent" />
-        <div className="absolute inset-0 bg-gradient-to-t from-cozy-950 via-transparent to-cozy-950/40" />
+        <div className="absolute inset-0 bg-gradient-to-r from-cozy-950/90 via-cozy-900/75 to-transparent z-10" />
+        <div className="absolute inset-0 bg-gradient-to-t from-cozy-950 via-transparent to-cozy-950/40 z-10" />
       </div>
 
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
+      <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
         <div className="max-w-3xl space-y-6">
 
           {/* Soft Enticing Tag Badge */}
