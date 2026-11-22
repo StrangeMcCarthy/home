@@ -1,0 +1,230 @@
+[
+  {
+    "id": "store-1",
+    "name": "Regional Homes of Byram",
+    "address": "5551 I 55 South",
+    "city": "Byram",
+    "state": "MS",
+    "zip": "39272",
+    "phone": "(601) 373-4453",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8999999999999995,
+    "reviewsCount": 138,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "DeerValley",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  },
+  {
+    "id": "store-3",
+    "name": "Regional Homes of Gulfport",
+    "address": "15489 Hwy 49 S",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39503",
+    "phone": "(228) 832-0710",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 84,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "DeerValley",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  },
+  {
+    "id": "store-4",
+    "name": "Regional Outlet Center -  Hattiesburg",
+    "address": "7756 US Hwy 49 North",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402",
+    "phone": "(601) 261-6005",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 88,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Leesville",
+      "Hamilton | Xpress",
+      "Bravo Homebuilders",
+      "Embark Homebuilders"
+    ]
+  },
+  {
+    "id": "store-5",
+    "name": "Regional Homes of Pearl",
+    "address": "2845 Hwy 80",
+    "city": "Pearl",
+    "state": "MS",
+    "zip": "39208",
+    "phone": "(601) 939-1459",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8999999999999995,
+    "reviewsCount": 152,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Franklin",
+      "Champion|Benton",
+      "Hamilton"
+    ]
+  },
+  {
+    "id": "store-6",
+    "name": "Regional Homes of Hattiesburg",
+    "address": "7385 US 49 North",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402",
+    "phone": "(601) 296-7960",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 141,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Benton",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  },
+  {
+    "id": "store-18",
+    "name": "Tupelo Home Center",
+    "address": "2401 Gloster Street",
+    "city": "Tupelo",
+    "state": "MS",
+    "zip": "38801",
+    "phone": "(662) 432-1091",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8999999999999995,
+    "reviewsCount": 161,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "DeerValley",
+      "Kabco",
+      "Clayton|Southern Energy"
+    ]
+  },
+  {
+    "id": "store-19",
+    "name": "Regional Homes of Pontotoc",
+    "address": "2753 Hwy 15 North",
+    "city": "Pontotoc",
+    "state": "MS",
+    "zip": "38863",
+    "phone": "(662) 488-9033",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8999999999999995,
+    "reviewsCount": 89,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Kabco",
+      "Clayton|Southern Energy",
+      "Clayton|TruMH"
+    ]
+  },
+  {
+    "id": "store-60",
+    "name": "Regional Homes of Columbus",
+    "address": "7120 Highway 45 North",
+    "city": "Columbus",
+    "state": "MS",
+    "zip": "39705",
+    "phone": "(662) 570-1375",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8999999999999995,
+    "reviewsCount": 133,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Kabco",
+      "Clayton|Southern Energy",
+      "Clayton|TruMH"
+    ]
+  },
+  {
+    "id": "store-75",
+    "name": "Regional Homes of McComb",
+    "address": "621 W Presley Blvd",
+    "city": "McComb",
+    "state": "MS",
+    "zip": "39648",
+    "phone": "(601) 249-4270",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 153,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "DeerValley",
+      "Skyline Builders LLC",
+      "Winston"
+    ]
+  },
+  {
+    "id": "store-80",
+    "name": "Town & Country Homes of Tupelo",
+    "address": "1110 D L Collums Drive",
+    "city": "Tupelo",
+    "state": "MS",
+    "zip": "38801",
+    "phone": "(662) 690-1501",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 89,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Kabco",
+      "Clayton|Southern Energy",
+      "Clayton|TruMH"
+    ]
+  },
+  {
+    "id": "store-114",
+    "name": "Regional Homes of Laurel",
+    "address": "5185 US-84",
+    "city": "Laurel",
+    "state": "MS",
+    "zip": "39443",
+    "phone": "(601) 428-8218",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 165,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "DeerValley",
+      "Skyline Builders LLC",
+      "Hamilton",
+      "Winston"
+    ]
+  },
+  {
+    "id": "store-116",
+    "name": "Regional Homes of Meridian",
+    "address": "2701 South Frontage Road",
+    "city": "Meridian",
+    "state": "MS",
+    "zip": "39301",
+    "phone": "(601) 693-6789",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 146,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Clayton|TruMH",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  }
+]

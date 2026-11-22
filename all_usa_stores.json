@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "store-1",
+    "name": "Regional Homes of Byram",
+    "address": "5551 I 55 South",
+    "city": "Byram",
+    "state": "MS",
+    "zip": "39272",
+    "phone": "(601) 373-4453",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 159,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "DeerValley",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  },
+  {
+    "id": "store-3",
+    "name": "Regional Homes of Gulfport",
+    "address": "15489 Hwy 49 S",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39503",
+    "phone": "(228) 832-0710",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 153,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "DeerValley",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  },
+  {
+    "id": "store-4",
+    "name": "Regional Outlet Center -  Hattiesburg",
+    "address": "7756 US Hwy 49 North",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402",
+    "phone": "(601) 261-6005",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 131,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Leesville",
+      "Hamilton | Xpress",
+      "Bravo Homebuilders",
+      "Embark Homebuilders"
+    ]
+  },
+  {
+    "id": "store-5",
+    "name": "Regional Homes of Pearl",
+    "address": "2845 Hwy 80",
+    "city": "Pearl",
+    "state": "MS",
+    "zip": "39208",
+    "phone": "(601) 939-1459",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.7,
+    "reviewsCount": 108,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Franklin",
+      "Champion|Benton",
+      "Hamilton"
+    ]
+  },
+  {
+    "id": "store-6",
+    "name": "Regional Homes of Hattiesburg",
+    "address": "7385 US 49 North",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402",
+    "phone": "(601) 296-7960",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 120,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Benton",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  },
+  {
+    "id": "store-18",
+    "name": "Tupelo Home Center",
+    "address": "2401 Gloster Street",
+    "city": "Tupelo",
+    "state": "MS",
+    "zip": "38801",
+    "phone": "(662) 432-1091",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 124,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "DeerValley",
+      "Kabco",
+      "Clayton|Southern Energy"
+    ]
+  },
+  {
+    "id": "store-19",
+    "name": "Regional Homes of Pontotoc",
+    "address": "2753 Hwy 15 North",
+    "city": "Pontotoc",
+    "state": "MS",
+    "zip": "38863",
+    "phone": "(662) 488-9033",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 107,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Kabco",
+      "Clayton|Southern Energy",
+      "Clayton|TruMH"
+    ]
+  },
+  {
+    "id": "store-60",
+    "name": "Regional Homes of Columbus",
+    "address": "7120 Highway 45 North",
+    "city": "Columbus",
+    "state": "MS",
+    "zip": "39705",
+    "phone": "(662) 570-1375",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 81,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Kabco",
+      "Clayton|Southern Energy",
+      "Clayton|TruMH"
+    ]
+  },
+  {
+    "id": "store-75",
+    "name": "Regional Homes of McComb",
+    "address": "621 W Presley Blvd",
+    "city": "McComb",
+    "state": "MS",
+    "zip": "39648",
+    "phone": "(601) 249-4270",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 45,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "DeerValley",
+      "Skyline Builders LLC",
+      "Winston"
+    ]
+  },
+  {
+    "id": "store-80",
+    "name": "Town & Country Homes of Tupelo",
+    "address": "1110 D L Collums Drive",
+    "city": "Tupelo",
+    "state": "MS",
+    "zip": "38801",
+    "phone": "(662) 690-1501",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 78,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Kabco",
+      "Clayton|Southern Energy",
+      "Clayton|TruMH"
+    ]
+  },
+  {
+    "id": "store-114",
+    "name": "Regional Homes of Laurel",
+    "address": "5185 US-84",
+    "city": "Laurel",
+    "state": "MS",
+    "zip": "39443",
+    "phone": "(601) 428-8218",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 71,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "DeerValley",
+      "Skyline Builders LLC",
+      "Hamilton",
+      "Winston"
+    ]
+  },
+  {
+    "id": "store-116",
+    "name": "Regional Homes of Meridian",
+    "address": "2701 South Frontage Road",
+    "city": "Meridian",
+    "state": "MS",
+    "zip": "39301",
+    "phone": "(601) 693-6789",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 125,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Clayton|TruMH",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  },
+  {
+    "id": "store-117",
+    "name": "Town & Country Homes of Meridian",
+    "address": "2500 North Frontage Road",
+    "city": "Meridian",
+    "state": "MS",
+    "zip": "39301",
+    "phone": "(601) 693-0197",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 72,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Clayton|TruMH",
+      "Hamilton",
+      "Winston"
+    ]
+  },
+  {
+    "id": "store-118",
+    "name": "Regional Homes of Mobile",
+    "address": "7251 Moffett Road",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36618",
+    "phone": "(251) 649-2077",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.7,
+    "reviewsCount": 143,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Hamilton",
+      "Winston",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-124",
+    "name": "Repo Home Center of Tupelo",
+    "address": "2500 South Gloster Street",
+    "city": "Tupelo",
+    "state": "MS",
+    "zip": "38801",
+    "phone": "(662) 432-2942",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.7,
+    "reviewsCount": 134,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Kabco",
+      "Clayton|Southern Energy",
+      "Clayton|TruMH",
+      "Lexington"
+    ]
+  },
+  {
+    "id": "store-137",
+    "name": "Regional Homes of Hammond",
+    "address": "15008 Montecino Drive",
+    "city": "Hammond",
+    "state": "LA",
+    "zip": "70403",
+    "phone": "(985) 956-7100",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.7,
+    "reviewsCount": 57,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Hamilton",
+      "Winston",
+      "Hamilton | Xpress",
+      "Bravo Homebuilders"
+    ]
+  },
+  {
+    "id": "store-138",
+    "name": "Town and Country of Hammond",
+    "address": "41539 W I-55 Service Road",
+    "city": "Hammond",
+    "state": "LA",
+    "zip": "70403",
+    "phone": "(985) 542-8020",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 106,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-140",
+    "name": "Regional Homes of Bonifay",
+    "address": "409 Saint John's Road",
+    "city": "Bonifay",
+    "state": "FL",
+    "zip": "32425",
+    "phone": "(850) 547-6250",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 132,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "DeerValley",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  },
+  {
+    "id": "store-147",
+    "name": "Town and Country Homes of Hattiesburg",
+    "address": "7495 US Hwy 49 South",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402",
+    "phone": "(601) 602-2378",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 123,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville"
+    ]
+  },
+  {
+    "id": "store-159",
+    "name": "Regional Homes | Como",
+    "address": "16394 Hwy 310",
+    "city": "Como",
+    "state": "MS",
+    "zip": "38619",
+    "phone": "(662) 460-4663",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 68,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Kabco",
+      "Clayton|Southern Energy",
+      "Clayton|TruMH"
+    ]
+  },
+  {
+    "id": "store-166",
+    "name": "Regional Homes of Cullman",
+    "address": "660 Co Rd 437",
+    "city": "Cullman",
+    "state": "AL",
+    "zip": "35055",
+    "phone": "(256) 775-8794",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 148,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Clayton|TruMH",
+      "Hamilton",
+      "Winston"
+    ]
+  },
+  {
+    "id": "store-174",
+    "name": "Regional Homes of Northport",
+    "address": "5900 McFarland Blvd",
+    "city": "Northport",
+    "state": "AL",
+    "zip": "35476",
+    "phone": "(205) 248-2178",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 131,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Hamilton",
+      "Winston",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-177",
+    "name": "Regional Homes of Brunswick",
+    "address": "867 Tucker Road SE",
+    "city": "Bolivia",
+    "state": "NC",
+    "zip": "28422",
+    "phone": "(910) 754-4900",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 140,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Hamilton",
+      "Winston",
+      "Champion|Ocala",
+      "Champion|Lillington"
+    ]
+  },
+  {
+    "id": "store-181",
+    "name": "Regional Homes of Monroe",
+    "address": "3500 US-165 Bypass South",
+    "city": "Monroe",
+    "state": "LA",
+    "zip": "71202",
+    "phone": "(318) 323-4484",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 135,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville",
+      "Champion|Ocala"
+    ]
+  },
+  {
+    "id": "store-182",
+    "name": "Regional Homes of Alexandria",
+    "address": "8045 Hwy 28 West",
+    "city": "Alexandria",
+    "state": "LA",
+    "zip": "71303",
+    "phone": "(318) 487-8828",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 108,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Winston",
+      "Champion|Leesville",
+      "Hamilton | Xpress",
+      "Champion|Navasota"
+    ]
+  },
+  {
+    "id": "store-183",
+    "name": "Regional Homes of Bossier City",
+    "address": "3500 E Texas St",
+    "city": "Bossier City",
+    "state": "LA",
+    "zip": "71111",
+    "phone": "(318) 741-3729",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 49,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Winston",
+      "Champion|Leesville",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-193",
+    "name": "Gum Tree Homes",
+    "address": "1503 S Gloster St",
+    "city": "Tupelo",
+    "state": "MS",
+    "zip": "38801",
+    "phone": "(662) 842-1024",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 150,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Winston",
+      "Hamilton | Xpress",
+      "Bravo Homebuilders",
+      "Embark Homebuilders"
+    ]
+  },
+  {
+    "id": "store-194",
+    "name": "Regional Homes of Saltillo",
+    "address": "1583 US-45",
+    "city": "Saltillo",
+    "state": "MS",
+    "zip": "38866",
+    "phone": "(662) 680-6235",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 72,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Franklin",
+      "Champion|Benton",
+      "Hamilton"
+    ]
+  },
+  {
+    "id": "store-210",
+    "name": "Regional Homes of Florence",
+    "address": "2213 E Palmetto Street",
+    "city": "Florence",
+    "state": "SC",
+    "zip": "29506",
+    "phone": "(843) 413-0440",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 71,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Hamilton",
+      "Winston",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-211",
+    "name": "Town & Country Homes of Hartsville",
+    "address": "428 W Bobo Newsom Highway",
+    "city": "Hartsville",
+    "state": "SC",
+    "zip": "29550",
+    "phone": "(843) 917-0237",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.7,
+    "reviewsCount": 49,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Winston",
+      "Hamilton | Xpress",
+      "Champion|Lake City",
+      "Champion|Lillington"
+    ]
+  },
+  {
+    "id": "store-222",
+    "name": "Regional Homes of Dothan",
+    "address": "2439 Ross Clark Circle",
+    "city": "Dothan",
+    "state": "AL",
+    "zip": "36301",
+    "phone": "(334) 673-5600",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.7,
+    "reviewsCount": 90,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "ScotBilt",
+      "Champion|Benton",
+      "Hamilton"
+    ]
+  },
+  {
+    "id": "store-224",
+    "name": "Regional Homes of Raceland",
+    "address": "1608 US-90",
+    "city": "Raceland",
+    "state": "LA",
+    "zip": "70394",
+    "phone": "(985) 537-8467",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 117,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-234",
+    "name": "Regional Homes of Jasper",
+    "address": "12703 Hwy 78",
+    "city": "Jasper",
+    "state": "AL",
+    "zip": "35501",
+    "phone": "(205) 265-2957",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 149,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Hamilton",
+      "Winston",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-247",
+    "name": "Regional Homes of Lufkin",
+    "address": "803 N Medford Drive",
+    "city": "Lufkin",
+    "state": "TX",
+    "zip": "75901",
+    "phone": "(936) 899-6256",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 116,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Winston",
+      "Champion|Leesville",
+      "Champion|Burleson"
+    ]
+  },
+  {
+    "id": "store-249",
+    "name": "Regional Homes of Lafayette",
+    "address": "2815 NW Evangeline Thruway",
+    "city": "Lafayette",
+    "state": "LA",
+    "zip": "70507",
+    "phone": "(337) 366-6631",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 71,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "DeerValley",
+      "Hamilton",
+      "Winston"
+    ]
+  },
+  {
+    "id": "store-260",
+    "name": "Regional Homes of Lumberton",
+    "address": "3400 E Elizabethtown Road",
+    "city": "Lumberton",
+    "state": "NC",
+    "zip": "28358",
+    "phone": "(910) 827-8274",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "ScotBilt",
+      "Winston",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-264",
+    "name": "Regional Homes of Piedmont",
+    "address": "3134 Hwy 153",
+    "city": "Piedmont",
+    "state": "SC",
+    "zip": "29673",
+    "phone": "(864) 781-0181",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 94,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Dresden",
+      "Franklin",
+      "ScotBilt",
+      "Hamilton"
+    ]
+  },
+  {
+    "id": "store-311",
+    "name": "Regional Modulars of Lumberton",
+    "address": "307 N. Roberts Avenue",
+    "city": "Lumberton",
+    "state": "NC",
+    "zip": "28358",
+    "phone": "(910) 827-8270",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 130,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Hamilton",
+      "Winston",
+      "Champion|Lillington"
+    ]
+  },
+  {
+    "id": "store-422",
+    "name": "Regional Homes of Conway",
+    "address": "767 US-501",
+    "city": "Conway",
+    "state": "SC",
+    "zip": "29526",
+    "phone": "(843) 438-9400",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 127,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Clayton|Patriot - SE Homes/CMH",
+      "ScotBilt",
+      "Winston"
+    ]
+  },
+  {
+    "id": "store-460",
+    "name": "Regional Homes of Robertsdale",
+    "address": "24440 State Highway 59",
+    "city": "Robertsdale",
+    "state": "AL",
+    "zip": "36567",
+    "phone": "(251) 383-2363",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 128,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Franklin",
+      "Hamilton",
+      "Winston",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-462",
+    "name": "Regional Homes of Waco",
+    "address": "4700 I-35 N Frontage Rd.",
+    "city": "Lacy Lakeview",
+    "state": "TX",
+    "zip": "76705",
+    "phone": "(254) 602-4062",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.7,
+    "reviewsCount": 53,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Winston",
+      "Champion|Leesville",
+      "Hamilton | Xpress",
+      "Champion|Mansfield"
+    ]
+  },
+  {
+    "id": "store-514",
+    "name": "Champion Homes Center Factory Direct",
+    "address": "2447 Military Street South",
+    "city": "Hamilton",
+    "state": "AL",
+    "zip": "35570",
+    "phone": "(205) 498-1858",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 5,
+    "reviewsCount": 151,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Hamilton"
+    ]
+  },
+  {
+    "id": "store-516",
+    "name": "Regional Homes of Caddo Mills",
+    "address": "4369 FM 36 South",
+    "city": "Caddo Mills",
+    "state": "TX",
+    "zip": "75135",
+    "phone": "(903) 527-0100",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 107,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Winston",
+      "Champion|Leesville",
+      "Champion|Burleson",
+      "Champion|Athens"
+    ]
+  },
+  {
+    "id": "store-519",
+    "name": "Regional Homes of Ocala",
+    "address": "5325 S Pine Ave",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34480",
+    "phone": "(352) 622-9910",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 48,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "ScotBilt",
+      "Champion|Millen",
+      "Champion|Waycross"
+    ]
+  },
+  {
+    "id": "store-463",
+    "name": "Regional Homes of Bartow",
+    "address": "3900 Hwy 17",
+    "city": "Bartow",
+    "state": "FL",
+    "zip": "33830",
+    "phone": "(863) 578-3791",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "ScotBilt",
+      "Skyline Builders LLC",
+      "Winston",
+      "Champion|Ocala"
+    ]
+  },
+  {
+    "id": "store-464",
+    "name": "Regional Homes - Candler",
+    "address": "1759 Smokey Park Hwy",
+    "city": "Candler",
+    "state": "NC",
+    "zip": "28751",
+    "phone": "(828) 237-3190",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 91,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Benton",
+      "Winston",
+      "Hamilton | Xpress",
+      "Champion|Millen"
+    ]
+  },
+  {
+    "id": "store-465",
+    "name": "Regional Homes of Opelousas",
+    "address": "14704 U.S. Hwy 190",
+    "city": "Opelousas",
+    "state": "LA",
+    "zip": "70570",
+    "phone": "(337) 942-9036",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 123,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Hamilton",
+      "Winston",
+      "Champion|Leesville",
+      "Hamilton | Xpress"
+    ]
+  },
+  {
+    "id": "store-466",
+    "name": "Regional Homes of Panama City",
+    "address": "2510 E 15th St",
+    "city": "Panama City",
+    "state": "FL",
+    "zip": "32405",
+    "phone": "(850) 769-5556",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 52,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "DeerValley",
+      "Franklin",
+      "ScotBilt",
+      "Hamilton"
+    ]
+  },
+  {
+    "id": "store-467",
+    "name": "Regional Homes of Zephyrhills",
+    "address": "34851 FL-54",
+    "city": "Zephyrhills",
+    "state": "FL",
+    "zip": "33541",
+    "phone": "(813) 815-1580",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 161,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Skyline Builders LLC",
+      "Hamilton",
+      "Winston",
+      "Champion|Ocala"
+    ]
+  },
+  {
+    "id": "store-468",
+    "name": "Champion Homes Center of Supply",
+    "address": "411 Ocean Hwy W",
+    "city": "Supply",
+    "state": "NC",
+    "zip": "28462",
+    "phone": "(910) 312-2530",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 162,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Winston",
+      "Champion|Lillington",
+      "Champion|Laurinburg",
+      "Champion|Pembroke"
+    ]
+  },
+  {
+    "id": "store-485",
+    "name": "Champion Homes Center - Lillington",
+    "address": "115 Titan Roberts Rd",
+    "city": "Lillington",
+    "state": "NC",
+    "zip": "27546",
+    "phone": "(180) 050-45924",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.8,
+    "reviewsCount": 137,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Lillington",
+      "Champion|Laurinburg",
+      "Champion|Pembroke"
+    ]
+  },
+  {
+    "id": "store-490",
+    "name": "Champion Homes Center - Topeka",
+    "address": "6855 S 700 W",
+    "city": "Topeka",
+    "state": "IN",
+    "zip": "46571",
+    "phone": "(180) 054-37412",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 79,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Topeka"
+    ]
+  },
+  {
+    "id": "store-525",
+    "name": null,
+    "address": "1710 20th Ave. SW",
+    "city": "Minot",
+    "state": "ND",
+    "zip": "58701",
+    "phone": "(701) 839-0039",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 133,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Adventure",
+      "Champion|Topeka",
+      "Champion | Worthington"
+    ]
+  },
+  {
+    "id": "store-526",
+    "name": null,
+    "address": "2000 E. Highway 30",
+    "city": "Kearney",
+    "state": "NE",
+    "zip": "68848",
+    "phone": "(308) 237-3843",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM | Sat: 9:00 AM - 4:00 PM",
+    "rating": 4.9,
+    "reviewsCount": 101,
+    "image": "https://regionalhomes.wpengine.com/wp-content/uploads/2023/11/Resident_Home-2_Retouched-1-scaled.jpg",
+    "modelsOnDisplay": [
+      "Champion|Topeka",
+      "Champion|Decatur",
+      "Champion | Arkansas City",
+      "Clayton | Middlebury"
+    ]
+  }
+]

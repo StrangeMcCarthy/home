@@ -1,0 +1,436 @@
+[
+  {
+    "storeId": 1,
+    "storeName": "Regional Homes of Byram",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-1.json",
+    "publicWebsiteUrl": "https://regionalhomesbyram.com"
+  },
+  {
+    "storeId": 3,
+    "storeName": "Regional Homes of Gulfport",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-3.json",
+    "publicWebsiteUrl": "https://regionalhomesgulfport.com"
+  },
+  {
+    "storeId": 4,
+    "storeName": "Regional Outlet Center -  Hattiesburg",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-4.json",
+    "publicWebsiteUrl": "https://regionaloutletcenters-hattiesburg.com"
+  },
+  {
+    "storeId": 5,
+    "storeName": "Regional Homes of Pearl",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-5.json",
+    "publicWebsiteUrl": "https://regionalhomespearl.com"
+  },
+  {
+    "storeId": 6,
+    "storeName": "Regional Homes of Hattiesburg",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-6.json",
+    "publicWebsiteUrl": "https://regionalhomeshattiesburg.com"
+  },
+  {
+    "storeId": 18,
+    "storeName": "Tupelo Home Center",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-18.json",
+    "publicWebsiteUrl": "https://tupelohomecenter.com"
+  },
+  {
+    "storeId": 19,
+    "storeName": "Regional Homes of Pontotoc",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-19.json",
+    "publicWebsiteUrl": "https://regionalhomespontotoc.com"
+  },
+  {
+    "storeId": 60,
+    "storeName": "Regional Homes of Columbus",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-60.json",
+    "publicWebsiteUrl": "https://regionalhomescolumbus.com"
+  },
+  {
+    "storeId": 75,
+    "storeName": "Regional Homes of McComb",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-75.json",
+    "publicWebsiteUrl": "https://regionalhomesmccomb.com"
+  },
+  {
+    "storeId": 80,
+    "storeName": "Town & Country Homes of Tupelo",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-80.json",
+    "publicWebsiteUrl": "https://townandcountrytupelo.com"
+  },
+  {
+    "storeId": 114,
+    "storeName": "Regional Homes of Laurel",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-114.json",
+    "publicWebsiteUrl": "https://regionalhomeslaurel.com"
+  },
+  {
+    "storeId": 116,
+    "storeName": "Regional Homes of Meridian",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-116.json",
+    "publicWebsiteUrl": "https://regionalhomesmeridian.com"
+  },
+  {
+    "storeId": 117,
+    "storeName": "Town & Country Homes of Meridian",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-117.json",
+    "publicWebsiteUrl": "https://townandcountrymeridian.com"
+  },
+  {
+    "storeId": 118,
+    "storeName": "Regional Homes of Mobile",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-118.json",
+    "publicWebsiteUrl": "https://regionalhomesmobile.com"
+  },
+  {
+    "storeId": 124,
+    "storeName": "Repo Home Center of Tupelo",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-124.json",
+    "publicWebsiteUrl": "https://reposoftupelo.com"
+  },
+  {
+    "storeId": 137,
+    "storeName": "Regional Homes of Hammond",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-137.json",
+    "publicWebsiteUrl": "https://regionalhomeshammond.com"
+  },
+  {
+    "storeId": 138,
+    "storeName": "Town and Country of Hammond",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-138.json",
+    "publicWebsiteUrl": "https://townandcountryhammond.com"
+  },
+  {
+    "storeId": 140,
+    "storeName": "Regional Homes of Bonifay",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-140.json",
+    "publicWebsiteUrl": "https://regionalhomesbonifay.com"
+  },
+  {
+    "storeId": 147,
+    "storeName": "Town and Country Homes of Hattiesburg",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-147.json",
+    "publicWebsiteUrl": "https://townandcountryhattiesburg.com"
+  },
+  {
+    "storeId": 159,
+    "storeName": "Regional Homes | Como",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-159.json",
+    "publicWebsiteUrl": "https://regionalhomescomo.com"
+  },
+  {
+    "storeId": 166,
+    "storeName": "Regional Homes of Cullman",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-166.json",
+    "publicWebsiteUrl": "https://regionalhomescullman.com"
+  },
+  {
+    "storeId": 174,
+    "storeName": "Regional Homes of Northport",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-174.json",
+    "publicWebsiteUrl": "https://regionalhomesnorthport.com"
+  },
+  {
+    "storeId": 177,
+    "storeName": "Regional Homes of Brunswick",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-177.json",
+    "publicWebsiteUrl": "https://regionalhomesbrunswick.com"
+  },
+  {
+    "storeId": 181,
+    "storeName": "Regional Homes of Monroe",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-181.json",
+    "publicWebsiteUrl": "https://regionalhomesmonroe.com"
+  },
+  {
+    "storeId": 182,
+    "storeName": "Regional Homes of Alexandria",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-182.json",
+    "publicWebsiteUrl": "https://regionalhomesalexandria.com"
+  },
+  {
+    "storeId": 183,
+    "storeName": "Regional Homes of Bossier City",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-183.json",
+    "publicWebsiteUrl": "https://regionalhomesbossiercity.com"
+  },
+  {
+    "storeId": 193,
+    "storeName": "Gum Tree Homes",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-193.json",
+    "publicWebsiteUrl": "https://gumtreehomestupelo.com"
+  },
+  {
+    "storeId": 194,
+    "storeName": "Regional Homes of Saltillo",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-194.json",
+    "publicWebsiteUrl": "https://regionalhomessaltillo.com"
+  },
+  {
+    "storeId": 210,
+    "storeName": "Regional Homes of Florence",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-210.json",
+    "publicWebsiteUrl": "https://regionalhomesflorence.com"
+  },
+  {
+    "storeId": 211,
+    "storeName": "Town & Country Homes of Hartsville",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-211.json",
+    "publicWebsiteUrl": "https://townandcountryhartsville.com"
+  },
+  {
+    "storeId": 222,
+    "storeName": "Regional Homes of Dothan",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-222.json",
+    "publicWebsiteUrl": "https://regionalhomesdothan.com"
+  },
+  {
+    "storeId": 224,
+    "storeName": "Regional Homes of Raceland",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-224.json",
+    "publicWebsiteUrl": "https://regionalhomesraceland.com"
+  },
+  {
+    "storeId": 234,
+    "storeName": "Regional Homes of Jasper",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-234.json",
+    "publicWebsiteUrl": "https://regionalhomesjasper.com"
+  },
+  {
+    "storeId": 247,
+    "storeName": "Regional Homes of Lufkin",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-247.json",
+    "publicWebsiteUrl": "https://regionalhomeslufkin.com"
+  },
+  {
+    "storeId": 249,
+    "storeName": "Regional Homes of Lafayette",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-249.json",
+    "publicWebsiteUrl": "https://regionalhomeslafayette.com"
+  },
+  {
+    "storeId": 260,
+    "storeName": "Regional Homes of Lumberton",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-260.json",
+    "publicWebsiteUrl": "https://regionalhomeslumberton.com"
+  },
+  {
+    "storeId": 264,
+    "storeName": "Regional Homes of Piedmont",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-264.json",
+    "publicWebsiteUrl": "https://regionalhomespiedmont.com"
+  },
+  {
+    "storeId": 311,
+    "storeName": "Regional Modulars of Lumberton",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-311.json",
+    "publicWebsiteUrl": "https://regionalmodularslumberton.com"
+  },
+  {
+    "storeId": 422,
+    "storeName": "Regional Homes of Conway",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-422.json",
+    "publicWebsiteUrl": "https://regionalhomesconway.com"
+  },
+  {
+    "storeId": 460,
+    "storeName": "Regional Homes of Robertsdale",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-460.json",
+    "publicWebsiteUrl": "https://regionalhomesrobertsdale.com"
+  },
+  {
+    "storeId": 462,
+    "storeName": "Regional Homes of Waco",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-462.json",
+    "publicWebsiteUrl": "https://regionalhomeswaco.com"
+  },
+  {
+    "storeId": 514,
+    "storeName": "Champion Homes Center Factory Direct",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-514.json",
+    "publicWebsiteUrl": "https://Championhomesdirecthamilton.com"
+  },
+  {
+    "storeId": 516,
+    "storeName": "Regional Homes of Caddo Mills",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-516.json",
+    "publicWebsiteUrl": "https://regionalhomescaddomills.com"
+  },
+  {
+    "storeId": 519,
+    "storeName": "Regional Homes of Ocala",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-519.json",
+    "publicWebsiteUrl": "https://regionalhomesocala.com"
+  },
+  {
+    "storeId": 463,
+    "storeName": "Regional Homes of Bartow",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-463.json",
+    "publicWebsiteUrl": "https://regionalhomesbartow.com"
+  },
+  {
+    "storeId": 464,
+    "storeName": "Regional Homes - Candler",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-464.json",
+    "publicWebsiteUrl": "https://regionalhomescandler.com"
+  },
+  {
+    "storeId": 465,
+    "storeName": "Regional Homes of Opelousas",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-465.json",
+    "publicWebsiteUrl": "https://regionalhomesopelousas.com"
+  },
+  {
+    "storeId": 466,
+    "storeName": "Regional Homes of Panama City",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-466.json",
+    "publicWebsiteUrl": "https://regionalhomespanamacity.com"
+  },
+  {
+    "storeId": 467,
+    "storeName": "Regional Homes of Zephyrhills",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-467.json",
+    "publicWebsiteUrl": "https://regionalhomeszephyrhills.com"
+  },
+  {
+    "storeId": 468,
+    "storeName": "Champion Homes Center of Supply",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-468.json",
+    "publicWebsiteUrl": "https://championhcsupply.com"
+  },
+  {
+    "storeId": 485,
+    "storeName": "Champion Homes Center - Lillington",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-485.json",
+    "publicWebsiteUrl": "https://championhomesdirectlillington.com"
+  },
+  {
+    "storeId": 490,
+    "storeName": "Champion Homes Center - Topeka",
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-490.json",
+    "publicWebsiteUrl": "https://championhomesdirecttopeka.com"
+  },
+  {
+    "storeId": 525,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-525.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/minot"
+  },
+  {
+    "storeId": 526,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-526.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/kearney"
+  },
+  {
+    "storeId": 527,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-527.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/brainerd"
+  },
+  {
+    "storeId": 528,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-528.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/cohasset"
+  },
+  {
+    "storeId": 529,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-529.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/billings"
+  },
+  {
+    "storeId": 530,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-530.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/helena"
+  },
+  {
+    "storeId": 531,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-531.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/pierre"
+  },
+  {
+    "storeId": 532,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-532.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/rapidcity"
+  },
+  {
+    "storeId": 533,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-533.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/siouxfalls"
+  },
+  {
+    "storeId": 534,
+    "storeName": null,
+    "isActive": true,
+    "dataUrl": "https://regentstorage.blob.core.windows.net/regent-public/store-534.json",
+    "publicWebsiteUrl": "www.isemanhomes.com/gillette"
+  }
+]

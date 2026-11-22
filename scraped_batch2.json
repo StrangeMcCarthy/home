@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "the-fay",
+    "name": "The Fay",
+    "tagline": "Beautiful 3-bedroom single-wide featuring open living space & factory precision",
+    "sectionType": "Single-Wide",
+    "price": 68500,
+    "startingEstMonthly": 384,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1080,
+    "dimensions": "16' x 64'",
+    "style": "Rustic Cottage",
+    "description": "Designed for warmth and hospitality! The Fay offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/9517cc830e7a43ba96e0fb0478384765.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/600f59667c88470f81528b743cb6181f.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/4b67e6c8efb042f799f3640256fc0035.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/444f1235e85945c8a5938e099ea530ac.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/79c33045c8c244a68adaed7b9a48504b.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a223d040dcc2446583a4ea87a819fb7e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-iris",
+    "name": "The Iris",
+    "tagline": "Beautiful 4-bedroom single-wide featuring open living space & factory precision",
+    "sectionType": "Single-Wide",
+    "price": 71900,
+    "startingEstMonthly": 403,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1080,
+    "dimensions": "16' x 64'",
+    "style": "Modern Farmhouse",
+    "description": "Designed for warmth and hospitality! The Iris offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "4 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/51e4baa16bfa48499942f002c5dca466.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/2c6b96eea227402eabe1afccaaa2252f.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/768effda5a79480599a0ce1e11f06e4d.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/9fb296f3977140c596c81f7fb4748984.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/eaecf3efbefb45e4a62a4a2d7ad33fbd.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a223d040dcc2446583a4ea87a819fb7e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-juno",
+    "name": "The Juno",
+    "tagline": "Beautiful 4-bedroom single-wide featuring open living space & factory precision",
+    "sectionType": "Single-Wide",
+    "price": 73500,
+    "startingEstMonthly": 412,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1080,
+    "dimensions": "16' x 64'",
+    "style": "Minimalist Lodge",
+    "description": "Designed for warmth and hospitality! The Juno offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "4 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/f10e327cc7ad42b6bdf7524cedc39aea.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/0b024162a9a0443fb1b3effc49b050e1.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/d70b8663bfb94252a3fc67643c4bf2dc.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/ba25efff14cf4dd4b1d5728a297caef4.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/699349b501244268b101ee6902ae200e.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a223d040dcc2446583a4ea87a819fb7e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-levi",
+    "name": "The Levi",
+    "tagline": "Beautiful 4-bedroom single-wide featuring open living space & factory precision",
+    "sectionType": "Single-Wide",
+    "price": 76000,
+    "startingEstMonthly": 426,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1080,
+    "dimensions": "16' x 64'",
+    "style": "Rustic Cottage",
+    "description": "Designed for warmth and hospitality! The Levi offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "4 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/228862abc3814b848f315a68cbfb9bea.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/bb99b3cde3934ed0bc7f31e7d8ac5cf2.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/28323bcc327e4bcbabd487824244a79a.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/5a13429986094f7a8c37eb46841d4140.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/fbdd22c2645f452583448cb49e1ff175.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a223d040dcc2446583a4ea87a819fb7e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-luna",
+    "name": "The Luna",
+    "tagline": "Beautiful 3-bedroom single-wide featuring open living space & factory precision",
+    "sectionType": "Single-Wide",
+    "price": 78900,
+    "startingEstMonthly": 442,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1080,
+    "dimensions": "16' x 64'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Luna offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/7138d25c980f49ea8a7e90ae951f330f.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/ce8ba9fb068b45c9b012d7695c6fd406.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/054b32093f45466bbd51398509af5d18.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/6fa8d95e6db64d7aaf5aa43fb11e50aa.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/4f7b5f97378d4f04ba0c6c61cde41e08.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a223d040dcc2446583a4ea87a819fb7e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-nova",
+    "name": "The Nova",
+    "tagline": "Beautiful 3-bedroom single-wide featuring open living space & factory precision",
+    "sectionType": "Single-Wide",
+    "price": 81000,
+    "startingEstMonthly": 454,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1080,
+    "dimensions": "16' x 64'",
+    "style": "Modern Farmhouse",
+    "description": "Designed for warmth and hospitality! The Nova offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/048ebd6393234df3b9ab7351e5e51dbc.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/f98d35d3d9e14c4ebb6f6c50b786cc2a.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/04fb3420a5484754911b886c3987231d.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/aaa221e032574ca19304aa14fb7cb095.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/752db7debe954f5e9e8f776a0bcfac83.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a223d040dcc2446583a4ea87a819fb7e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-palmview",
+    "name": "The Palmview",
+    "tagline": "Beautiful 1-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 128000,
+    "startingEstMonthly": 717,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Palmview offers 1 bedrooms, 1 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "1 Bedrooms & 1 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/20863e1509a74d71a01db2f0a3794890.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/dd2976c509214da8ad13be2852a087b2.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/ebb8348cb0c24126812bee3d664ec386.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/162e632234b94abd8cd8683d639af9b8.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/3ac0db1e65734eb2992afd86627e2cfb.jpeg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/3bac9b9f22cc41b3ad3c00f3aa234069.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-shorebreak",
+    "name": "The Shorebreak",
+    "tagline": "Beautiful 1-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 135000,
+    "startingEstMonthly": 756,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Shorebreak offers 1 bedrooms, 1 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "1 Bedrooms & 1 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/620acba3aeca40fbbc4e00044f616907.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/97ac3583ee5145a3a15b093c47ebd147.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/acb48551b4a04261a4db2b12d62abb8e.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/291fecaa56974e459f40e3e97c73f95a.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/e172a7c6fc3941cca816173224b26ed4.jpeg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/677cd922fea5472a9f6777118bf2e081.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-cedar-creek-3276h42106",
+    "name": "The Cedar Creek 3276H42106",
+    "tagline": "Beautiful 4-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 192000,
+    "startingEstMonthly": 1075,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Craftsman Haven",
+    "description": "Designed for warmth and hospitality! The Cedar Creek 3276H42106 offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "4 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/cff7c042aed8477eba86c5ea451c05c7.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/efaf359dd7404fa9862f28e536bc969b.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/fcfd0bc32f0e4fa6b3d3dd4783041844.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/0ddeedc7de624b45b753fef0e20b0045.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/3efcc9b02922485ca56d696292e673a9.webp"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/e6a7815b08f543808eafab443f5cc70d.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-cypress-creek-cottage",
+    "name": "The Cypress Creek Cottage",
+    "tagline": "Beautiful 3-bedroom single-wide featuring open living space & factory precision",
+    "sectionType": "Single-Wide",
+    "price": 82000,
+    "startingEstMonthly": 459,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1080,
+    "dimensions": "16' x 64'",
+    "style": "Rustic Cottage",
+    "description": "Designed for warmth and hospitality! The Cypress Creek Cottage offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/978c4456f62e42d79cdfefae8a9a83d9.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/732ca7f9a08b4cd0b5bd0add7a68b4f1.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/70b9330320744118a1bb6684a068a49c.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/850b529b5f254b21be3a32500f7507d8.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/551ba7cda5b141108b9d097d249f8cb8.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/52fd5d3f4967408097f0041a1fc9dde5.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-churchill",
+    "name": "The Churchill",
+    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 149000,
+    "startingEstMonthly": 834,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Craftsman Haven",
+    "description": "Designed for warmth and hospitality! The Churchill offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/e5fa0258a4114a0685280d2691df1f71.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/52a038ecaa4b4dc2978c99caa2a7f5fb.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/3775940fdef34a28ba83ef45191546ff.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/8c92a531575b41d8b772dfec015a498b.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/93ad8155c32d4168ac4794f23d2d5d67.webp"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/d132b8e9244441ed889076e96137c03b.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-crown",
+    "name": "The Crown",
+    "tagline": "Beautiful 4-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 152000,
+    "startingEstMonthly": 851,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Crown offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "4 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/65158b562d6f42e0a8febaf14da99032.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/a793b7126bac4904b2146259960b49c7.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/b1026a316bef4d288a5c51a48a08e422.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/a53874d178ce4171a7d11fd15995de13.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/bd30412d9dc04f54825b621f3736dc9e.webp"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/57115ee87f444a13b2d6207e4fa09d33.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-ridge",
+    "name": "The Ridge",
+    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 136000,
+    "startingEstMonthly": 762,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Rustic Cottage",
+    "description": "Designed for warmth and hospitality! The Ridge offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/031c835ed9184f0facb6713283939411.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/e52bb574b9484f43972a2d401d3e533a.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/640d427d5c4345089104e2fc3d34f12f.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/eead6eceea3046569962074e4c3524b2.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/0d6f1769aceb4389ba0fdbb1fec5abb8.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/57115ee87f444a13b2d6207e4fa09d33.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-summit",
+    "name": "The Summit",
+    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 210000,
+    "startingEstMonthly": 1176,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Minimalist Lodge",
+    "description": "Designed for warmth and hospitality! The Summit offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/6446cdad010646fc9e6d6d776233b733.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/f63381862a38485294bf2ecb9a0d59bd.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/ecab668071f948909ee55ae0c1146487.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/24c428ff068347dc950d1118bceece00.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/856c8a92613045bca2a602e7435a1d62.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/57115ee87f444a13b2d6207e4fa09d33.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-browning",
+    "name": "The Browning",
+    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 137500,
+    "startingEstMonthly": 770,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Modern Farmhouse",
+    "description": "Designed for warmth and hospitality! The Browning offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/df31ed426c41440e921260f73bf1e08e.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/728a4249e1ea46c0ad6ba08d602133e0.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/bc7d6256d1f846c9ab5976b0d2c62272.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/020c130fad65473f86f99e6b8ab0ab5b.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/bc73cdb44343429fa5b888c60b69d543.webp"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/9b0a408e0ab048779fa18457655a51b2.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-remington",
+    "name": "The Remington",
+    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 144000,
+    "startingEstMonthly": 806,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Craftsman Haven",
+    "description": "Designed for warmth and hospitality! The Remington offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/914fdcb6bd7a4111874fdb71159294aa.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/ab474d16575546dca9c4fcc5798386d3.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/ada5bc54e839482baa85db6fa3bd411d.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/02da81c6b47849dcbb2c8e83d6cbbf1b.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/2cc6502688794569a9feacabee4247c7.webp"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/2df2b341cbc64635823a48e47a1695ef.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-paris",
+    "name": "The Paris",
+    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 202000,
+    "startingEstMonthly": 1131,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Paris offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/c1766b09a153499c885a25059a3c37b2.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/5645d9caa0f349fb92676b4b320664c2.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/9d9e732acfec4166a8ac9d2c82125a7a.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/c6db5f3fa8b441bb9dfdd7ea5cad22ad.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/27ed2f4fcd0f41d19327d01ad1653d54.webp"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ac67bb0cbf5a45fdae71ba3f2aa2871e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-rosedale",
+    "name": "The Rosedale",
+    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 218000,
+    "startingEstMonthly": 1221,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Craftsman Haven",
+    "description": "Designed for warmth and hospitality! The Rosedale offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/841f252c78e047688b28fe4c22a79ad7.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/aedb8579eba84edf9d038a9689f7516b.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/aab46bac2d0540bc8908ff5ae6ef99bc.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/27f96edf9d384452aca239b6e436ce86.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/1c1329c753cc41f585446e4cf13c1e24.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/6dad74bc49b641718bd7d3f2fa18a7e7.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-forest-manor-3523b",
+    "name": "The Forest Manor 3523B",
+    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 228000,
+    "startingEstMonthly": 1277,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Minimalist Lodge",
+    "description": "Designed for warmth and hospitality! The Forest Manor 3523B offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/4642fbd4833d45198c3d45904c62183b.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/62f944430dad4f6b910b3d9e0bf354e9.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/8d55ab529a794851ad63025f17722264.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/089ff9daab7e40b98099741c9d2c901c.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/49b54faabd704d53977699ce35cfdef2.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/827dc44529b6421aa612d2da3e952743.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-creole",
+    "name": "The Creole",
+    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 146000,
+    "startingEstMonthly": 818,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Creole offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/ccbb11ef4f554a14b0c7c6af16dc97f1.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/0cde1e04fa164fd797b8d4be3f35283b.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/56998229d7b34937b36525ff2f3e73c0.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/f060fe6b9e6d4f56bac4cda0194b61e5.webp",
+      "https://regentstorage.blob.core.windows.net/regent-public/fbc6f8a6cb304ba691d0c6ec0863d394.webp"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/da3ff46111b44868907148fff4ca7d45.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-dauphine",
+    "name": "The Dauphine",
+    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 149500,
+    "startingEstMonthly": 837,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Dauphine offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/9a2433f5ad9041f881769a00e0f4edfd.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/e24ad4f3a8e44c6eaa8de1d9f35aec6e.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/6bc7532c5ddd40ba8b41309fafe70e98.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/b62f04f8f6fb4aa08ae5fcac5c44ca50.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/412f32b3c2c84920ae8d708c9b47d89b.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/e6a7815b08f543808eafab443f5cc70d.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-tulane",
+    "name": "The Tulane",
+    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 151000,
+    "startingEstMonthly": 846,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Modern Farmhouse",
+    "description": "Designed for warmth and hospitality! The Tulane offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/e4641d8943544f01b5ed7e758d7209dc.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/710beb507f564097a51fe886ad3e3e62.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/a3f128f402ff4817a7a439b9ba7ef905.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/36224b2a2af245c69bafd197a3098512.jpeg",
+      "https://regentstorage.blob.core.windows.net/regent-public/237fb56c3f004a32a89717d1158d8d32.jpeg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ac67bb0cbf5a45fdae71ba3f2aa2871e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-ascent",
+    "name": "The Ascent",
+    "tagline": "Beautiful 4-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 195000,
+    "startingEstMonthly": 1092,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Modern Farmhouse",
+    "description": "Designed for warmth and hospitality! The Ascent offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "4 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/a7516cc1d944466a987a12001d14ed66.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/e471b0aa1f904666afb4d7fcfcd537df.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/61e2999ec2bb4553b6776967b69cdf5a.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/cc83d19c8a0143a6a1e3b568956acb84.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/04b561663ef74439a5650da341d4af34.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ac67bb0cbf5a45fdae71ba3f2aa2871e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-hudson",
+    "name": "The Hudson",
+    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 208000,
+    "startingEstMonthly": 1165,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Craftsman Haven",
+    "description": "Designed for warmth and hospitality! The Hudson offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/72bd3db9ebb04af6af705d9ba6e7c2e0.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/07a66f7270a8472bb5317fb17bb5f827.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/441d4b1dd2974426976fcc4f6448db84.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/198e298a92894dd6835d8905f6e3d530.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/926c58ac5073464d9e87165b4c638a2f.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ac67bb0cbf5a45fdae71ba3f2aa2871e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-shoreline",
+    "name": "The Shoreline",
+    "tagline": "Beautiful 4-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 212000,
+    "startingEstMonthly": 1187,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Shoreline offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "4 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/437c6762e618452785c3cd9a2b339393.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/7d5b60e2b21a41d4b3c83d363ce136a2.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/1dde7d4307b44613b1c881b5f6131ce1.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/e9ed36c8a0734bcca3d1eda7e07e8a89.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/9c7908f814484e8b961f319cd1f92648.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/d132b8e9244441ed889076e96137c03b.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-bayshore",
+    "name": "The Bayshore",
+    "tagline": "Beautiful 2-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 133000,
+    "startingEstMonthly": 745,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Bayshore offers 2 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "2 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/e3e7b38ae31241bb98813a4461bf5ea2.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/742812023bdc48e9a0e8bda26eb9e5d6.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/e5cc6d7a658b40bbace3c3049f61cb1f.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/5905b04fb2fb419296b5c3947806ce6d.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/e60666a23fbd4ef2a19b773e68892a3f.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a223d040dcc2446583a4ea87a819fb7e.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-boulder",
+    "name": "The Boulder",
+    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 199000,
+    "startingEstMonthly": 1114,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Minimalist Lodge",
+    "description": "Designed for warmth and hospitality! The Boulder offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/7234de1777174fc098d3aaf6c9560e6e.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/ce991372eaf54de6948d417904267e16.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/56e5940c4fb5432f935f2d84dffddeae.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/d83b2102bccc45c890575c17843d83ae.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/9bb2ef9859ce4a3fb2d465bb647f4824.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/da3ff46111b44868907148fff4ca7d45.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-montana",
+    "name": "The Montana",
+    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "sectionType": "Modular",
+    "price": 222000,
+    "startingEstMonthly": 1243,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2250,
+    "dimensions": "32' x 76'",
+    "style": "Craftsman Haven",
+    "description": "Designed for warmth and hospitality! The Montana offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/810cb298e5c6412b907065878e9f0e14.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/cbf09c3b3b374113aa2ebc2ec5e225b6.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/ed3e0758f47540e18793c1b1ca85fc2b.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/938015ec822e4577ae8e4de0615ccd82.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/20298c2c9ec84a0b8617de944c489b62.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ad8c7fec9cbc4d37bab98f2ff7d31bf4.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-ashbank",
+    "name": "The Ashbank",
+    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 139500,
+    "startingEstMonthly": 781,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Modern Farmhouse",
+    "description": "Designed for warmth and hospitality! The Ashbank offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "3 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/9eb593cad86f4e459f05537d0e71a502.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/cf065cf7ea9f4493a7970a611a50c99d.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/776ff76095e645f5bb2a31bc255b6c13.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/45852d2b74454e3e831ac697f188b65e.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/8934aca2e3494016afd2e825338eb271.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a7627747268a43578b30ea998e7214da.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  },
+  {
+    "id": "the-sanibel",
+    "name": "The Sanibel",
+    "tagline": "Beautiful 2-bedroom double-wide featuring open living space & factory precision",
+    "sectionType": "Double-Wide",
+    "price": 147000,
+    "startingEstMonthly": 823,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1680,
+    "dimensions": "28' x 64'",
+    "style": "Southern Elegance",
+    "description": "Designed for warmth and hospitality! The Sanibel offers 2 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "highlights": [
+      "2 Bedrooms & 2 Baths",
+      "Open-Concept Living & Dining Area",
+      "Energy Star® Certified High-Efficiency Insulation"
+    ],
+    "features": [
+      "Drywall Interior with Warm Paint Finish",
+      "Thermal Low-E Argon Windows",
+      "30-Year Architectural Shingle Roof"
+    ],
+    "specs": [
+      {
+        "label": "Roof Pitch",
+        "value": "4/12 Pitch"
+      },
+      {
+        "label": "Insulation",
+        "value": "R-22 Floor / R-11 Wall / R-30 Roof"
+      }
+    ],
+    "images": [
+      "https://regentstorage.blob.core.windows.net/regent-public/a95cd555fad34f8a8267e1003b68cf3e.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/0da304c068fe45bbbb7940462cb240fc.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/e5a964d53a2d4f06b4991a633c803f3f.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/93edac846705487588e9d8edf23d13b5.jpg",
+      "https://regentstorage.blob.core.windows.net/regent-public/cb0bb78bbc564a6582a49c158edf88d4.jpg"
+    ],
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ea1c30de65174f9ba653ced4f2243081.png",
+    "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isTurnkeyReady": true,
+    "customizations": []
+  }
+]
