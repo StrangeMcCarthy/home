@@ -51,7 +51,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/371c251ec8e74656ac1e244165d3142e.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/6c087b8d133c49ef8c6de7d6c316ba1f.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/677cd922fea5472a9f6777118bf2e081.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/da3ff46111b44868907148fff4ca7d45.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": true,
@@ -125,7 +125,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/5e0f29a86f3241f88e227653eaf55a42.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/6a3641a931f942f8a1f6c1b61ce78aa9.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a223d040dcc2446583a4ea87a819fb7e.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/649772dc14ed4bf495a47610c8fe47af.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": false,
@@ -171,7 +171,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/177f0272aad849d282eef06ffdb476f6.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/231e13b6bb0b4cdba040bb686002cb6b.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ad8c7fec9cbc4d37bab98f2ff7d31bf4.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/55639e76accb4f25a0da79a19e921dda.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": true,
@@ -217,7 +217,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/1daa4b1eebdc4bb794669d6318de96a6.jpeg",
       "https://regentstorage.blob.core.windows.net/regent-public/403f4a120da9471c820fba7b41937c06.jpeg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/3bac9b9f22cc41b3ad3c00f3aa234069.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/6c92966433db4096ab4dcb3fdb2fbd21.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -263,7 +263,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/35ded52b3dcb4b2594fb99a5e5ef11d4.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/17e08b323f614c2cb67e1eabda98c10c.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ac67bb0cbf5a45fdae71ba3f2aa2871e.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/00ae3e7da4a648d09606f8fa5ec28cd4.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": false,
@@ -309,7 +309,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/aed9c813806040459e63bc103876bbc6.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/923e52dbf99840b3a8a51a968073fe77.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/d6228c090f534996a21710e83a1c2314.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/dc57e1c4082c413cad40590e2cb8ad24.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -355,7 +355,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/00c2bb7b4bf9411690bd4b0242851242.JPG",
       "https://regentstorage.blob.core.windows.net/regent-public/3e7facc6fc4d490d838def00ce1498cd.JPG"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/9b0a408e0ab048779fa18457655a51b2.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/3c4ba33a33eb4625a325ad7f8ac30751.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": false,
@@ -401,7 +401,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/4bb540babc54448e97a9664e480f99ef.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/79a7ba7125d643749ff6c51059cf1236.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/57115ee87f444a13b2d6207e4fa09d33.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/baa1377cfde84bf0a749168259408257.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -446,7 +446,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/bb669f36cbe348499cdbfd4c5b54abb6.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/e10da1fd22df4a1fa1b2e12ee6338df3.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/58a3c6705a2c4030b8c0adb5a5a011cf.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/be5f56ab6ed9483bb1eff9a8c584e634.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": false,
@@ -492,7 +492,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/f20b49158794481d884a50fb26d03a50.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/3217fc4094cb45629fc8720a3455e540.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/52fd5d3f4967408097f0041a1fc9dde5.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/308a7a818a1f4cbba801338fa7a478d7.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -538,7 +538,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/09838891fc1348c5b7332e742eab4bcc.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/1ea36901f96549b987717c681e9a0f1e.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/3c4ba33a33eb4625a325ad7f8ac30751.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/c2ca79365c244dcf908d4580ef8b22f1.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -584,7 +584,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/1fddbcf3342349a2b221c68453c86ed4.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/c37590a096cb4c629ac24bcc4e10acd5.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/e6a7815b08f543808eafab443f5cc70d.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/6c92966433db4096ab4dcb3fdb2fbd21.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": true,
@@ -630,7 +630,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/98db4863a5fb467f85a5e933a54224b4.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/5469f45092e3497e89004e3bfcae1776.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/d132b8e9244441ed889076e96137c03b.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/1463e73cb10e479d9b827e24af274dc4.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -676,7 +676,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/d0c27ed05bbc47dcb15cdf5d725546fc.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/3f8a5346646f496ca2538657d3f039e3.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/eab9a29493394ed4ae67b3fb55b23881.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/27145667cee149eca260fb334e76aeb1.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -722,7 +722,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/f1faf290c11e4d4eb83222b05739dc0d.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/f0445f8fbbf64f15beec9c0536635707.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/e09c00b41e24496b86eff6b77a4280e7.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ba1f4ba1de8640329f5a3a6b3a6b816b.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -768,7 +768,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/0098be32539c4a379407c138a2b65641.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/398911e31c154faf83e0e586e386b1f1.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/2df2b341cbc64635823a48e47a1695ef.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/25fd0259df9140c89a2f7dac06af6b6e.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": true,
@@ -814,7 +814,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/aab46bac2d0540bc8908ff5ae6ef99bc.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/27f96edf9d384452aca239b6e436ce86.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/17b39546c10d407b8d135e5314f4449f.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ba1f4ba1de8640329f5a3a6b3a6b816b.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -860,7 +860,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/e2652734138f4cfbae2876912bf69b28.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/3ba2dce7eadf4192bf8552af6796310e.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/6dad74bc49b641718bd7d3f2fa18a7e7.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/60967a715fe14de689f5fd98292cf235.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": true,
@@ -907,7 +907,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/444f1235e85945c8a5938e099ea530ac.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/79c33045c8c244a68adaed7b9a48504b.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/0bc1a0b6585a411995a8fa42f09b0414.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/f2173d55adbb49a78e74a33a075fe68a.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -954,7 +954,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/9fb296f3977140c596c81f7fb4748984.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/eaecf3efbefb45e4a62a4a2d7ad33fbd.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a9461b24a2ce440f94c636b521e2f3f3.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/5f6bd11e9fe6491088c38c6f9f09b56c.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1001,7 +1001,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/ba25efff14cf4dd4b1d5728a297caef4.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/699349b501244268b101ee6902ae200e.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/3b83f310dd1a42238c83d0bd4511a648.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/55bf5648add94d1ba61ed6d35ec851c2.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1048,7 +1048,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/5a13429986094f7a8c37eb46841d4140.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/fbdd22c2645f452583448cb49e1ff175.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/220a7a5fd73c4fffb08766aebcb38ee8.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/9d290a87ac5f4aa384b80543a8cec79f.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": true,
@@ -1095,7 +1095,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/6fa8d95e6db64d7aaf5aa43fb11e50aa.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/4f7b5f97378d4f04ba0c6c61cde41e08.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/0c9aa79e472a45cabb34da7b6bc40c89.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/2b22de0a009d42e3be454a587263998a.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -1142,7 +1142,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/aaa221e032574ca19304aa14fb7cb095.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/752db7debe954f5e9e8f776a0bcfac83.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/827dc44529b6421aa612d2da3e952743.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/f5d15839f0e644ccbbb7438559e373bd.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1189,7 +1189,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/162e632234b94abd8cd8683d639af9b8.jpeg",
       "https://regentstorage.blob.core.windows.net/regent-public/3ac0db1e65734eb2992afd86627e2cfb.jpeg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/d8fdfce4a455431a9f07c5571bbac333.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/64db7eeb71234971b8faf9eb37645213.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1236,7 +1236,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/291fecaa56974e459f40e3e97c73f95a.jpeg",
       "https://regentstorage.blob.core.windows.net/regent-public/e172a7c6fc3941cca816173224b26ed4.jpeg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ea1c30de65174f9ba653ced4f2243081.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/02e8f7266a5c46d7ad960686ab0ea907.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1283,7 +1283,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/0ddeedc7de624b45b753fef0e20b0045.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/3efcc9b02922485ca56d696292e673a9.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/4b4f2dd39f5f49e0bb3fe398611e896f.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/00ae3e7da4a648d09606f8fa5ec28cd4.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1330,7 +1330,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/850b529b5f254b21be3a32500f7507d8.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/551ba7cda5b141108b9d097d249f8cb8.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/9bcc563a8f054c38af3589b47726ca3e.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/f04cdf434716472f929006993bdc23d6.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1377,7 +1377,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/8c92a531575b41d8b772dfec015a498b.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/93ad8155c32d4168ac4794f23d2d5d67.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/25426e2f0c7a4b1ea0e770ec1823375f.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/11a6c26ed39348afa7fd9c3eaf8af7f9.jpeg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -1424,7 +1424,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/a53874d178ce4171a7d11fd15995de13.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/bd30412d9dc04f54825b621f3736dc9e.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a7a8e945121c433ba627fb03935fd8fc.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/268ab65c08a746ad891fa9a893578872.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1471,7 +1471,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/eead6eceea3046569962074e4c3524b2.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/0d6f1769aceb4389ba0fdbb1fec5abb8.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/da3ff46111b44868907148fff4ca7d45.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/f637c6f9d2d849bfa2adb6d865d87c8f.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -1518,7 +1518,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/24c428ff068347dc950d1118bceece00.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/856c8a92613045bca2a602e7435a1d62.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/bf26efa1547144e98277bc1cfc1e7eb6.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/60967a715fe14de689f5fd98292cf235.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1565,7 +1565,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/020c130fad65473f86f99e6b8ab0ab5b.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/bc73cdb44343429fa5b888c60b69d543.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/8ee2de73469d41f8af8e975ce92488fd.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/5f6bd11e9fe6491088c38c6f9f09b56c.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1612,7 +1612,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/02da81c6b47849dcbb2c8e83d6cbbf1b.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/2cc6502688794569a9feacabee4247c7.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/677cd922fea5472a9f6777118bf2e081.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/4b9a842feab742eab72324c3a4d0eede.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -1659,7 +1659,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/c6db5f3fa8b441bb9dfdd7ea5cad22ad.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/27ed2f4fcd0f41d19327d01ad1653d54.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a223d040dcc2446583a4ea87a819fb7e.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/4b363a3ea8824eb9b2e9ad93dff6a237.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1706,7 +1706,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/27f96edf9d384452aca239b6e436ce86.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/1c1329c753cc41f585446e4cf13c1e24.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ad8c7fec9cbc4d37bab98f2ff7d31bf4.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/6dad74bc49b641718bd7d3f2fa18a7e7.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -1753,7 +1753,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/089ff9daab7e40b98099741c9d2c901c.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/49b54faabd704d53977699ce35cfdef2.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/3bac9b9f22cc41b3ad3c00f3aa234069.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/24917da3c9394ebe91ddd76a1eaf0d0e.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -1800,7 +1800,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/f060fe6b9e6d4f56bac4cda0194b61e5.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/fbc6f8a6cb304ba691d0c6ec0863d394.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/ac67bb0cbf5a45fdae71ba3f2aa2871e.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/bf302657147f4eafb9c4eea1ab1a35b7.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1847,7 +1847,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/b62f04f8f6fb4aa08ae5fcac5c44ca50.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/412f32b3c2c84920ae8d708c9b47d89b.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/d6228c090f534996a21710e83a1c2314.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/6dad74bc49b641718bd7d3f2fa18a7e7.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": false,
@@ -1894,7 +1894,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/36224b2a2af245c69bafd197a3098512.jpeg",
       "https://regentstorage.blob.core.windows.net/regent-public/237fb56c3f004a32a89717d1158d8d32.jpeg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/9b0a408e0ab048779fa18457655a51b2.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/11a6c26ed39348afa7fd9c3eaf8af7f9.jpeg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -1941,7 +1941,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/cc83d19c8a0143a6a1e3b568956acb84.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/04b561663ef74439a5650da341d4af34.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/57115ee87f444a13b2d6207e4fa09d33.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/5e7ac3f9bf4a4a6eb8b5c6c85feafae4.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1988,7 +1988,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/198e298a92894dd6835d8905f6e3d530.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/926c58ac5073464d9e87165b4c638a2f.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/58a3c6705a2c4030b8c0adb5a5a011cf.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/557d853900ac46d6b338037af283b9f3.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": true,
@@ -2035,7 +2035,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/e9ed36c8a0734bcca3d1eda7e07e8a89.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/9c7908f814484e8b961f319cd1f92648.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/52fd5d3f4967408097f0041a1fc9dde5.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/e6a7815b08f543808eafab443f5cc70d.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -2082,7 +2082,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/5905b04fb2fb419296b5c3947806ce6d.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/e60666a23fbd4ef2a19b773e68892a3f.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/3c4ba33a33eb4625a325ad7f8ac30751.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/677cd922fea5472a9f6777118bf2e081.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -2129,7 +2129,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/d83b2102bccc45c890575c17843d83ae.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/9bb2ef9859ce4a3fb2d465bb647f4824.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/e6a7815b08f543808eafab443f5cc70d.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/da3ff46111b44868907148fff4ca7d45.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -2176,7 +2176,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/938015ec822e4577ae8e4de0615ccd82.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/20298c2c9ec84a0b8617de944c489b62.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/d132b8e9244441ed889076e96137c03b.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/22d9130a21974cc5bddcd7c5684c9725.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": false,
@@ -2223,7 +2223,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/45852d2b74454e3e831ac697f188b65e.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/8934aca2e3494016afd2e825338eb271.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/eab9a29493394ed4ae67b3fb55b23881.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/a7941a7ea41b4c43bee32ca3dc3f39e5.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": false,
@@ -2270,7 +2270,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/93edac846705487588e9d8edf23d13b5.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/cb0bb78bbc564a6582a49c158edf88d4.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/e09c00b41e24496b86eff6b77a4280e7.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/700bdba3c44f43f0bede53b4fb4a02f6.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
