@@ -1,16 +1,8 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, lazy, Suspense } from 'react';
 import { useRouter } from './router/useRouter';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
-
-import { HomePage } from './pages/HomePage';
-import { CatalogPage } from './pages/CatalogPage';
-import { OurDifferencePage } from './pages/OurDifferencePage';
-import { StoresPage } from './pages/StoresPage';
-import { JournalPage } from './pages/JournalPage';
-import { ReviewsPage } from './pages/ReviewsPage';
-import { FaqsPage } from './pages/FaqsPage';
-import { HomeDetailPage } from './pages/HomeDetailPage';
+import { ErrorBoundary } from './components/ErrorBoundary';
 
 import { HomeDetailModal } from './components/HomeDetailModal';
 import { QuoteRequestModal } from './components/QuoteRequestModal';
@@ -19,6 +11,30 @@ import { VirtualTourModal } from './components/VirtualTourModal';
 
 import { INITIAL_HOMES } from './data/homesData';
 import { HomeModel, FilterState } from './types/home';
+import { Home, Sparkles } from 'lucide-react';
+
+// Lazy-loaded Pages for Instant Initial Load Speed
+const HomePage = lazy(() => import('./pages/HomePage').then((m) => ({ default: m.HomePage })));
+const CatalogPage = lazy(() => import('./pages/CatalogPage').then((m) => ({ default: m.CatalogPage })));
+const OurDifferencePage = lazy(() => import('./pages/OurDifferencePage').then((m) => ({ default: m.OurDifferencePage })));
+const StoresPage = lazy(() => import('./pages/StoresPage').then((m) => ({ default: m.StoresPage })));
+const JournalPage = lazy(() => import('./pages/JournalPage').then((m) => ({ default: m.JournalPage })));
+const ReviewsPage = lazy(() => import('./pages/ReviewsPage').then((m) => ({ default: m.ReviewsPage })));
+const FaqsPage = lazy(() => import('./pages/FaqsPage').then((m) => ({ default: m.FaqsPage })));
+const HomeDetailPage = lazy(() => import('./pages/HomeDetailPage').then((m) => ({ default: m.HomeDetailPage })));
+
+// Simple Page Loading Skeleton
+const PageFallback = () => (
+  <div className="min-h-[400px] flex flex-col items-center justify-center space-y-4 py-20 text-cozy-600">
+    <div className="w-12 h-12 rounded-2xl bg-hearth-100 text-hearth-600 flex items-center justify-center animate-bounce">
+      <Home className="w-6 h-6" />
+    </div>
+    <div className="flex items-center space-x-2 text-xs font-bold text-cozy-700">
+      <Sparkles className="w-4 h-4 text-hearth-500 animate-spin" />
+      <span>Loading Page Content...</span>
+    </div>
+  </div>
+);
 
 export const App: React.FC = () => {
   const { route, navigate } = useRouter();
@@ -231,62 +247,66 @@ export const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-cozy-50 flex flex-col font-sans selection:bg-hearth-100 selection:text-hearth-800">
+    <ErrorBoundary>
+      <div className="min-h-screen bg-cozy-50 flex flex-col font-sans selection:bg-hearth-100 selection:text-hearth-800">
 
-      {/* Top Header Navigation */}
-      <Navbar
-        favorites={favorites}
-        onOpenFavorites={() => setIsFavoritesDrawerOpen(true)}
-        onOpenQuoteModal={handleOpenQuoteModal}
-        onNavigate={navigate}
-        currentPath={route.path}
-      />
+        {/* Top Header Navigation */}
+        <Navbar
+          favorites={favorites}
+          onOpenFavorites={() => setIsFavoritesDrawerOpen(true)}
+          onOpenQuoteModal={handleOpenQuoteModal}
+          onNavigate={navigate}
+          currentPath={route.path}
+        />
 
-      {/* Main Multi-Page Route View */}
-      <main className="flex-1">
-        {renderCurrentPage()}
-      </main>
+        {/* Main Multi-Page Route View with Lazy Loading Suspense */}
+        <main className="flex-1">
+          <Suspense fallback={<PageFallback />}>
+            {renderCurrentPage()}
+          </Suspense>
+        </main>
 
-      {/* Cozy Footer */}
-      <Footer onNavigate={navigate} />
+        {/* Cozy Footer */}
+        <Footer onNavigate={navigate} />
 
-      {/* Global Utility Modals & Drawers */}
+        {/* Global Utility Modals & Drawers */}
 
-      {/* 1. Quick View Modal */}
-      <HomeDetailModal
-        home={modalDetailHome}
-        onClose={() => setModalDetailHome(null)}
-        isFavorite={modalDetailHome ? favorites.some((f) => f.id === modalDetailHome.id) : false}
-        onToggleFavorite={handleToggleFavorite}
-        onOpenQuoteModal={handleOpenQuoteModal}
-        onOpenTourModal={handleOpen3dTour}
-      />
+        {/* 1. Quick View Modal */}
+        <HomeDetailModal
+          home={modalDetailHome}
+          onClose={() => setModalDetailHome(null)}
+          isFavorite={modalDetailHome ? favorites.some((f) => f.id === modalDetailHome.id) : false}
+          onToggleFavorite={handleToggleFavorite}
+          onOpenQuoteModal={handleOpenQuoteModal}
+          onOpenTourModal={handleOpen3dTour}
+        />
 
-      {/* 2. Quote Request Modal */}
-      <QuoteRequestModal
-        isOpen={isQuoteModalOpen}
-        onClose={() => setIsQuoteModalOpen(false)}
-        selectedHome={quoteHome}
-      />
+        {/* 2. Quote Request Modal */}
+        <QuoteRequestModal
+          isOpen={isQuoteModalOpen}
+          onClose={() => setIsQuoteModalOpen(false)}
+          selectedHome={quoteHome}
+        />
 
-      {/* 3. Saved Favorites Drawer */}
-      <FavoritesDrawer
-        isOpen={isFavoritesDrawerOpen}
-        onClose={() => setIsFavoritesDrawerOpen(false)}
-        favorites={favorites}
-        onRemoveFavorite={handleToggleFavorite}
-        onQuickView={(h) => navigate('home-detail', { id: h.id })}
-        onOpenQuoteModal={handleOpenQuoteModal}
-      />
+        {/* 3. Saved Favorites Drawer */}
+        <FavoritesDrawer
+          isOpen={isFavoritesDrawerOpen}
+          onClose={() => setIsFavoritesDrawerOpen(false)}
+          favorites={favorites}
+          onRemoveFavorite={handleToggleFavorite}
+          onQuickView={(h) => navigate('home-detail', { id: h.id })}
+          onOpenQuoteModal={handleOpenQuoteModal}
+        />
 
-      {/* 4. 3D Virtual Tour Viewer */}
-      <VirtualTourModal
-        isOpen={is3dTourOpen}
-        onClose={() => setIs3dTourOpen(false)}
-        home={tour3dHome}
-      />
+        {/* 4. 3D Virtual Tour Viewer */}
+        <VirtualTourModal
+          isOpen={is3dTourOpen}
+          onClose={() => setIs3dTourOpen(false)}
+          home={tour3dHome}
+        />
 
-    </div>
+      </div>
+    </ErrorBoundary>
   );
 };
 
