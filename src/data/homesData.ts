@@ -4,18 +4,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-basecamp-lodge",
     "name": "The Basecamp Lodge",
-    "tagline": "Rustic luxury double-wide with covered porch & open Great Room",
+    "tagline": "Spacious 2-bedroom, 3-bath double-wide featuring 1,650 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 138900,
     "startingEstMonthly": 778,
     "beds": 2,
     "baths": 3,
     "sqft": 1650,
-    "dimensions": "28' x 60'",
+    "dimensions": "32' x 80'",
     "style": "Modern Farmhouse",
-    "description": "Designed for outdoor enthusiasts and families alike! The Basecamp Lodge combines timber accents, an expansive open kitchen island, and a luxury primary suite with a deep soaking tub.",
+    "description": "The The Basecamp Lodge is a precision factory-built double-wide offering 2 bedrooms, 3 bathrooms, and 1,650 sq ft of climate-controlled luxury (32' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Chef Kitchen with Walk-in Pantry & Center Island",
+      "2 Bedrooms & 3 Bathrooms (1,650 sq ft)",
       "Spacious Primary Suite with Free-Standing Soaking Tub",
       "Crafted Wood Accent Walls & Built-in Media Unit",
       "Energy Star® Certified High-Efficiency Insulation"
@@ -51,7 +51,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/371c251ec8e74656ac1e244165d3142e.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/6c087b8d133c49ef8c6de7d6c316ba1f.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/da3ff46111b44868907148fff4ca7d45.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/771f6df0aaf54fe0b5b848b8a6abec87.pdf",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": true,
     "isBestSeller": true,
@@ -87,18 +87,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-woodside",
     "name": "The Woodside",
-    "tagline": "Grand 4-bedroom modular estate with stacked stone fireplace & dual suites",
+    "tagline": "Spacious 4-bedroom, 3-bath modular featuring 2,200 sq ft of open living space",
     "sectionType": "Modular",
     "price": 189500,
     "startingEstMonthly": 1061,
     "beds": 4,
     "baths": 3,
     "sqft": 2200,
-    "dimensions": "32' x 72'",
+    "dimensions": "45' x 66'",
     "style": "Craftsman Haven",
-    "description": "Built to full modular building code standards, The Woodside features 4 spacious bedrooms, a floor-to-ceiling stone fireplace, dual primary suites, and a gourmet kitchen.",
+    "description": "The The Woodside is a precision factory-built modular offering 4 bedrooms, 3 bathrooms, and 2,200 sq ft of climate-controlled luxury (45' x 66'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Dual Primary Suites with Walk-in Closets",
+      "4 Bedrooms & 3 Bathrooms (2,200 sq ft)",
       "Floor-to-Ceiling Stacked Stone Fireplace",
       "Covered Back Patio with Outdoor Grill Hookup",
       "Dedicated Mudroom & Laundry Station"
@@ -135,18 +135,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-pip",
     "name": "The Pip",
-    "tagline": "Compact, efficient 3-bedroom single-wide with cozy open living",
+    "tagline": "Spacious 3-bedroom, 2-bath single-wide featuring 1,050 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 74900,
     "startingEstMonthly": 419,
     "beds": 3,
     "baths": 2,
     "sqft": 1050,
-    "dimensions": "16' x 66'",
+    "dimensions": "16' x 80'",
     "style": "Rustic Cottage",
-    "description": "Smart design maximizing every square foot! The Pip brings 3 full bedrooms and 2 baths into an easy-to-site single section layout with bright living space and energy savings.",
+    "description": "The The Pip is a precision factory-built single-wide offering 3 bedrooms, 2 bathrooms, and 1,050 sq ft of climate-controlled luxury (16' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Full Bedrooms with Generous Closets",
+      "3 Bedrooms & 2 Bathrooms (1,050 sq ft)",
       "Open Kitchen & Breakfast Bar",
       "Low Monthly Utility Footprint"
     ],
@@ -181,7 +181,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-marsh-ridge",
     "name": "The Marsh Ridge Coastal",
-    "tagline": "Airy coastal double-wide with sunlit living room & white oak trim",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,650 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 124500,
     "startingEstMonthly": 697,
@@ -190,9 +190,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1650,
     "dimensions": "28' x 60'",
     "style": "Southern Elegance",
-    "description": "Feel the coastal breeze! Featuring vaulted ceilings, large picture windows, a spacious island bar, and a tranquil master bath retreat.",
+    "description": "The The Marsh Ridge Coastal is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,650 sq ft of climate-controlled luxury (28' x 60'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Cathedral Living Room Ceilings",
+      "3 Bedrooms & 2 Bathrooms (1,650 sq ft)",
       "Secluded Master Suite with Walk-in Closet",
       "Full Island Bar with Seating for Four"
     ],
@@ -227,18 +227,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-sky-harbor-3-0",
     "name": "The Sky Harbor 3.0",
-    "tagline": "Luxury 4-bedroom modular estate with bonus family loft area",
+    "tagline": "Spacious 4-bedroom, 3-bath modular featuring 2,200 sq ft of open living space",
     "sectionType": "Modular",
     "price": 224900,
     "startingEstMonthly": 1259,
     "beds": 4,
     "baths": 3,
     "sqft": 2200,
-    "dimensions": "32' x 80'",
+    "dimensions": "50' x 64'",
     "style": "Minimalist Lodge",
-    "description": "Our premier modular estate! Features 4 large bedrooms, 3 full baths, an upstairs loft, a grand fireplace, and double ovens.",
+    "description": "The The Sky Harbor 3.0 is a precision factory-built modular offering 4 bedrooms, 3 bathrooms, and 2,200 sq ft of climate-controlled luxury (50' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Bedrooms + Bonus Family Loft",
+      "4 Bedrooms & 3 Bathrooms (2,200 sq ft)",
       "Grand Stone Fireplace with Cedar Mantle",
       "Double Oven & Commercial Grade Gas Range"
     ],
@@ -273,7 +273,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-englewood",
     "name": "The Englewood Farmhouse",
-    "tagline": "Charming 3-bedroom single-wide with board-and-batten siding",
+    "tagline": "Spacious 3-bedroom, 2-bath single-wide featuring 1,050 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 84900,
     "startingEstMonthly": 475,
@@ -282,9 +282,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1050,
     "dimensions": "18' x 66'",
     "style": "Modern Farmhouse",
-    "description": "Modern farmhouse appeal in a convenient single-wide section! Built-in desk nook, farmhouse sink, and spacious master closet.",
+    "description": "The The Englewood Farmhouse is a precision factory-built single-wide offering 3 bedrooms, 2 bathrooms, and 1,050 sq ft of climate-controlled luxury (18' x 66'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Farmhouse Apron Sink & Floating Shelves",
+      "3 Bedrooms & 2 Bathrooms (1,050 sq ft)",
       "Built-in Computer Work Station",
       "Heavy-Duty Weather-Proof Siding"
     ],
@@ -319,18 +319,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-pinnacle",
     "name": "The Pinnacle Estate",
-    "tagline": "Spacious 5-bedroom double-wide designed for growing families",
+    "tagline": "Spacious 5-bedroom, 3-bath double-wide featuring 1,650 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 145000,
     "startingEstMonthly": 812,
     "beds": 5,
     "baths": 3,
     "sqft": 1650,
-    "dimensions": "28' x 70'",
+    "dimensions": "28' x 80'",
     "style": "Craftsman Haven",
-    "description": "Need extra space? The Pinnacle provides 5 bedrooms and 3 full baths with an expansive living room, formal dining space, and walk-in pantry.",
+    "description": "The The Pinnacle Estate is a precision factory-built double-wide offering 5 bedrooms, 3 bathrooms, and 1,650 sq ft of climate-controlled luxury (28' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "5 Bedrooms for Big Families & Guests",
+      "5 Bedrooms & 3 Bathrooms (1,650 sq ft)",
       "3 Full Bathrooms",
       "Expansive Open Living & Dining Room"
     ],
@@ -365,18 +365,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-big-sky",
     "name": "The Big Sky Modular",
-    "tagline": "Elegant 4-bedroom modular home with open beam ceilings",
+    "tagline": "Spacious 4-bedroom, 2-bath modular featuring 2,200 sq ft of open living space",
     "sectionType": "Modular",
     "price": 198000,
     "startingEstMonthly": 1109,
     "beds": 4,
     "baths": 2,
     "sqft": 2200,
-    "dimensions": "32' x 76'",
+    "dimensions": "28' x 80'",
     "style": "Southern Elegance",
-    "description": "Under the Big Sky! Featuring cathedral timber ceilings, a central kitchen island with seating, a mudroom, and a luxury primary bathroom.",
+    "description": "The The Big Sky Modular is a precision factory-built modular offering 4 bedrooms, 2 bathrooms, and 2,200 sq ft of climate-controlled luxury (28' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Cathedral Ceiling with Exposed Beams",
+      "4 Bedrooms & 2 Bathrooms (2,200 sq ft)",
       "Gourmet Kitchen Island Bar",
       "Spacious Primary Retreat"
     ],
@@ -411,7 +411,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-yellowstone",
     "name": "The Yellowstone Lodge",
-    "tagline": "4-Bedroom modular sanctuary built for woodland & country sites",
+    "tagline": "Spacious 4-bedroom, 3-bath modular featuring 2,200 sq ft of open living space",
     "sectionType": "Modular",
     "price": 215000,
     "startingEstMonthly": 1204,
@@ -420,9 +420,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 2200,
     "dimensions": "32' x 80'",
     "style": "Minimalist Lodge",
-    "description": "Warm cedar tones and mountain lodge charm! The Yellowstone offers 4 full bedrooms, 3 baths, a stone fireplace, and a covered porch.",
+    "description": "The The Yellowstone Lodge is a precision factory-built modular offering 4 bedrooms, 3 bathrooms, and 2,200 sq ft of climate-controlled luxury (32' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Rustic Cedar Exterior Accents",
+      "4 Bedrooms & 3 Bathrooms (2,200 sq ft)",
       "Stone Hearth Fireplace",
       "Double Master Bath Vanity"
     ],
@@ -456,18 +456,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-fall-creek-3-0",
     "name": "The Fall Creek 3.0",
-    "tagline": "Warm farmhouse double-wide with open island kitchen & pantry",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,650 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 132000,
     "startingEstMonthly": 739,
     "beds": 3,
     "baths": 2,
     "sqft": 1650,
-    "dimensions": "28' x 64'",
+    "dimensions": "32' x 80'",
     "style": "Modern Farmhouse",
-    "description": "Fall in love with Fall Creek! Sunlit living space, barn door accents, open island kitchen, and a master retreat with dual sinks.",
+    "description": "The The Fall Creek 3.0 is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,650 sq ft of climate-controlled luxury (32' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Sliding Barn Door Accent Features",
+      "3 Bedrooms & 2 Bathrooms (1,650 sq ft)",
       "Large Center Island with Bar Seating",
       "Walk-in Master Closet"
     ],
@@ -492,7 +492,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/f20b49158794481d884a50fb26d03a50.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/3217fc4094cb45629fc8720a3455e540.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/308a7a818a1f4cbba801338fa7a478d7.jpg",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/10c03b216e954d33a4a724002356f4b9.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": true,
@@ -502,18 +502,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-delashaw",
     "name": "The Delashaw Cottage",
-    "tagline": "Cozy 3-bedroom double-wide with warm oak cabinetry",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,650 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 129000,
     "startingEstMonthly": 722,
     "beds": 3,
     "baths": 2,
     "sqft": 1650,
-    "dimensions": "28' x 60'",
+    "dimensions": "31' x 68'",
     "style": "Rustic Cottage",
-    "description": "Built for practical comfort and warmth. The Delashaw offers rich oak cabinets, an open-concept Great Room, and easy utility hookups.",
+    "description": "The The Delashaw Cottage is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,650 sq ft of climate-controlled luxury (31' x 68'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Solid Warm Oak Cabinetry",
+      "3 Bedrooms & 2 Bathrooms (1,650 sq ft)",
       "Open Great Room Layout",
       "Energy Efficient Climate Control"
     ],
@@ -548,18 +548,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-bourbon",
     "name": "The Bourbon Estate",
-    "tagline": "Spacious 4-bedroom double-wide with southern porch styling",
+    "tagline": "Spacious 4-bedroom, 2-bath double-wide featuring 1,650 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 139000,
     "startingEstMonthly": 778,
     "beds": 4,
     "baths": 2,
     "sqft": 1650,
-    "dimensions": "28' x 68'",
+    "dimensions": "32' x 80'",
     "style": "Southern Elegance",
-    "description": "Classic southern hospitality! The Bourbon features 4 full bedrooms, a sprawling living room, and an island kitchen ideal for hosting family dinners.",
+    "description": "The The Bourbon Estate is a precision factory-built double-wide offering 4 bedrooms, 2 bathrooms, and 1,650 sq ft of climate-controlled luxury (32' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Large Bedrooms",
+      "4 Bedrooms & 2 Bathrooms (1,650 sq ft)",
       "Southern Porch Elevation Options",
       "Spacious Island Kitchen"
     ],
@@ -594,7 +594,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-magnolia-series",
     "name": "The Magnolia Classic",
-    "tagline": "4-Bedroom modern farmhouse with soaking tub & utility mudroom",
+    "tagline": "Spacious 4-bedroom, 2-bath double-wide featuring 1,650 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 142000,
     "startingEstMonthly": 795,
@@ -603,9 +603,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1650,
     "dimensions": "28' x 70'",
     "style": "Modern Farmhouse",
-    "description": "A true classic! The Magnolia offers 4 bedrooms, a dedicated utility mudroom, a spa soaking tub, and built-in entertainment shelving.",
+    "description": "The The Magnolia Classic is a precision factory-built double-wide offering 4 bedrooms, 2 bathrooms, and 1,650 sq ft of climate-controlled luxury (28' x 70'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Bedrooms + Utility Mudroom",
+      "4 Bedrooms & 2 Bathrooms (1,650 sq ft)",
       "Free-Standing Soaking Tub",
       "Built-in Entertainment Center"
     ],
@@ -640,18 +640,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-ace",
     "name": "The Ace Single-Wide",
-    "tagline": "Modern 2-bedroom single-wide designed for stylish affordable living",
+    "tagline": "Spacious 2-bedroom, 2-bath single-wide featuring 1,050 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 69900,
     "startingEstMonthly": 391,
     "beds": 2,
     "baths": 2,
     "sqft": 1050,
-    "dimensions": "16' x 60'",
+    "dimensions": "16' x 68'",
     "style": "Minimalist Lodge",
-    "description": "Stylish simplicity! The Ace provides 2 full bedrooms, 2 full baths, an open kitchen bar, and ultra-low monthly energy bills.",
+    "description": "The The Ace Single-Wide is a precision factory-built single-wide offering 2 bedrooms, 2 bathrooms, and 1,050 sq ft of climate-controlled luxury (16' x 68'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "2 Bedrooms & 2 Full Baths",
+      "2 Bedrooms & 2 Bathrooms (1,050 sq ft)",
       "Open Kitchen Bar with Pantry",
       "Affordable Starter Home Pricing"
     ],
@@ -686,18 +686,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-eva",
     "name": "The Eva Cottage",
-    "tagline": "Cozy 3-bedroom single-wide with bright sunlit windows",
+    "tagline": "Spacious 3-bedroom, 2-bath single-wide featuring 1,050 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 72500,
     "startingEstMonthly": 406,
     "beds": 3,
     "baths": 2,
     "sqft": 1050,
-    "dimensions": "16' x 64'",
+    "dimensions": "16' x 80'",
     "style": "Rustic Cottage",
-    "description": "Warm and inviting! The Eva brings 3 bedrooms into a single-section layout with light oak finishes and energy-efficient appliances.",
+    "description": "The The Eva Cottage is a precision factory-built single-wide offering 3 bedrooms, 2 bathrooms, and 1,050 sq ft of climate-controlled luxury (16' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,050 sq ft)",
       "Light Oak Cabinet Finish",
       "Built-in Linen Closets"
     ],
@@ -732,18 +732,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-charleston",
     "name": "The Charleston Haven",
-    "tagline": "Elegant 3-bedroom double-wide with plantation-style front porch",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,650 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 155000,
     "startingEstMonthly": 868,
     "beds": 3,
     "baths": 2,
     "sqft": 1650,
-    "dimensions": "28' x 68'",
+    "dimensions": "16' x 82'",
     "style": "Southern Elegance",
-    "description": "Timeless elegance! The Charleston features plantation-style porch options, high ceilings, a grand kitchen, and a luxurious primary bedroom.",
+    "description": "The The Charleston Haven is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,650 sq ft of climate-controlled luxury (16' x 82'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Covered Front Porch Elevation",
+      "3 Bedrooms & 2 Bathrooms (1,650 sq ft)",
       "Gourmet Kitchen with Center Island",
       "Spacious Primary Retreat with Dual Vanities"
     ],
@@ -778,7 +778,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-yellowstone-craftsman",
     "name": "The Yellowstone Craftsman",
-    "tagline": "4-Bedroom modular estate with stone hearth & rustic timber beams",
+    "tagline": "Spacious 4-bedroom, 2-bath modular featuring 2,200 sq ft of open living space",
     "sectionType": "Modular",
     "price": 205000,
     "startingEstMonthly": 1148,
@@ -787,9 +787,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 2200,
     "dimensions": "32' x 78'",
     "style": "Craftsman Haven",
-    "description": "Craftsman warmth and modular strength! Features 4 bedrooms, stone fireplace, custom cabinets, and Energy Star insulation.",
+    "description": "The The Yellowstone Craftsman is a precision factory-built modular offering 4 bedrooms, 2 bathrooms, and 2,200 sq ft of climate-controlled luxury (32' x 78'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "Stacked Stone Fireplace",
+      "4 Bedrooms & 2 Bathrooms (2,200 sq ft)",
       "4 Bedrooms + Laundry Station",
       "High-Efficiency Climate Control"
     ],
@@ -824,18 +824,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-kinlock-falls",
     "name": "The Kinlock Falls",
-    "tagline": "Modern 4-bedroom farmhouse double-wide with open island kitchen",
+    "tagline": "Spacious 4-bedroom, 2-bath double-wide featuring 1,650 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 148000,
     "startingEstMonthly": 829,
     "beds": 4,
     "baths": 2,
     "sqft": 1650,
-    "dimensions": "28' x 68'",
+    "dimensions": "32' x 80'",
     "style": "Modern Farmhouse",
-    "description": "Designed for modern family living! The Kinlock Falls features 4 bedrooms, barn door accents, open island kitchen, and a master suite soaking tub.",
+    "description": "The The Kinlock Falls is a precision factory-built double-wide offering 4 bedrooms, 2 bathrooms, and 1,650 sq ft of climate-controlled luxury (32' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Full Bedrooms",
+      "4 Bedrooms & 2 Bathrooms (1,650 sq ft)",
       "Sliding Barn Door Accents",
       "Chef Kitchen Island Bar"
     ],
@@ -870,18 +870,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-fay",
     "name": "The Fay",
-    "tagline": "Beautiful 3-bedroom single-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath single-wide featuring 1,080 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 68500,
     "startingEstMonthly": 384,
     "beds": 3,
     "baths": 2,
     "sqft": 1080,
-    "dimensions": "16' x 64'",
+    "dimensions": "16' x 82'",
     "style": "Rustic Cottage",
-    "description": "Designed for warmth and hospitality! The Fay offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Fay is a precision factory-built single-wide offering 3 bedrooms, 2 bathrooms, and 1,080 sq ft of climate-controlled luxury (16' x 82'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,080 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -917,18 +917,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-iris",
     "name": "The Iris",
-    "tagline": "Beautiful 4-bedroom single-wide featuring open living space & factory precision",
+    "tagline": "Spacious 4-bedroom, 2-bath single-wide featuring 1,080 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 71900,
     "startingEstMonthly": 403,
     "beds": 4,
     "baths": 2,
     "sqft": 1080,
-    "dimensions": "16' x 64'",
+    "dimensions": "32' x 80'",
     "style": "Modern Farmhouse",
-    "description": "Designed for warmth and hospitality! The Iris offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Iris is a precision factory-built single-wide offering 4 bedrooms, 2 bathrooms, and 1,080 sq ft of climate-controlled luxury (32' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Bedrooms & 2 Baths",
+      "4 Bedrooms & 2 Bathrooms (1,080 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -964,18 +964,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-juno",
     "name": "The Juno",
-    "tagline": "Beautiful 4-bedroom single-wide featuring open living space & factory precision",
+    "tagline": "Spacious 4-bedroom, 2-bath single-wide featuring 1,080 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 73500,
     "startingEstMonthly": 412,
     "beds": 4,
     "baths": 2,
     "sqft": 1080,
-    "dimensions": "16' x 64'",
+    "dimensions": "32' x 70'",
     "style": "Minimalist Lodge",
-    "description": "Designed for warmth and hospitality! The Juno offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Juno is a precision factory-built single-wide offering 4 bedrooms, 2 bathrooms, and 1,080 sq ft of climate-controlled luxury (32' x 70'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Bedrooms & 2 Baths",
+      "4 Bedrooms & 2 Bathrooms (1,080 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1001,7 +1001,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/ba25efff14cf4dd4b1d5728a297caef4.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/699349b501244268b101ee6902ae200e.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/55bf5648add94d1ba61ed6d35ec851c2.jpg",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/6b46b01d6ce148b883764866359601d7.pdf",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1011,7 +1011,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-levi",
     "name": "The Levi",
-    "tagline": "Beautiful 4-bedroom single-wide featuring open living space & factory precision",
+    "tagline": "Spacious 4-bedroom, 2-bath single-wide featuring 1,080 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 76000,
     "startingEstMonthly": 426,
@@ -1020,9 +1020,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1080,
     "dimensions": "16' x 64'",
     "style": "Rustic Cottage",
-    "description": "Designed for warmth and hospitality! The Levi offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Levi is a precision factory-built single-wide offering 4 bedrooms, 2 bathrooms, and 1,080 sq ft of climate-controlled luxury (16' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Bedrooms & 2 Baths",
+      "4 Bedrooms & 2 Bathrooms (1,080 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1058,18 +1058,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-luna",
     "name": "The Luna",
-    "tagline": "Beautiful 3-bedroom single-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath single-wide featuring 1,080 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 78900,
     "startingEstMonthly": 442,
     "beds": 3,
     "baths": 2,
     "sqft": 1080,
-    "dimensions": "16' x 64'",
+    "dimensions": "32' x 60'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Luna offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Luna is a precision factory-built single-wide offering 3 bedrooms, 2 bathrooms, and 1,080 sq ft of climate-controlled luxury (32' x 60'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,080 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1105,18 +1105,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-nova",
     "name": "The Nova",
-    "tagline": "Beautiful 3-bedroom single-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath single-wide featuring 1,080 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 81000,
     "startingEstMonthly": 454,
     "beds": 3,
     "baths": 2,
     "sqft": 1080,
-    "dimensions": "16' x 64'",
+    "dimensions": "32' x 56'",
     "style": "Modern Farmhouse",
-    "description": "Designed for warmth and hospitality! The Nova offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Nova is a precision factory-built single-wide offering 3 bedrooms, 2 bathrooms, and 1,080 sq ft of climate-controlled luxury (32' x 56'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,080 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1152,7 +1152,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-palmview",
     "name": "The Palmview",
-    "tagline": "Beautiful 1-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 1-bedroom, 1-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 128000,
     "startingEstMonthly": 717,
@@ -1161,9 +1161,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1680,
     "dimensions": "28' x 64'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Palmview offers 1 bedrooms, 1 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Palmview is a precision factory-built double-wide offering 1 bedrooms, 1 bathrooms, and 1,680 sq ft of climate-controlled luxury (28' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "1 Bedrooms & 1 Baths",
+      "1 Bedrooms & 1 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1199,18 +1199,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-shorebreak",
     "name": "The Shorebreak",
-    "tagline": "Beautiful 1-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 1-bedroom, 1-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 135000,
     "startingEstMonthly": 756,
     "beds": 1,
     "baths": 1,
     "sqft": 1680,
-    "dimensions": "28' x 64'",
+    "dimensions": "12' x 42'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Shorebreak offers 1 bedrooms, 1 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Shorebreak is a precision factory-built double-wide offering 1 bedrooms, 1 bathrooms, and 1,680 sq ft of climate-controlled luxury (12' x 42'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "1 Bedrooms & 1 Baths",
+      "1 Bedrooms & 1 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1236,7 +1236,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/291fecaa56974e459f40e3e97c73f95a.jpeg",
       "https://regentstorage.blob.core.windows.net/regent-public/e172a7c6fc3941cca816173224b26ed4.jpeg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/02e8f7266a5c46d7ad960686ab0ea907.jpg",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/d0ab1de5715b49679091e5aa76e61385.pdf",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1246,18 +1246,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-cedar-creek-3276h42106",
     "name": "The Cedar Creek 3276H42106",
-    "tagline": "Beautiful 4-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 4-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 192000,
     "startingEstMonthly": 1075,
     "beds": 4,
     "baths": 2,
     "sqft": 2250,
-    "dimensions": "32' x 76'",
+    "dimensions": "32' x 80'",
     "style": "Craftsman Haven",
-    "description": "Designed for warmth and hospitality! The Cedar Creek 3276H42106 offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Cedar Creek 3276H42106 is a precision factory-built modular offering 4 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (32' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Bedrooms & 2 Baths",
+      "4 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1283,7 +1283,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/0ddeedc7de624b45b753fef0e20b0045.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/3efcc9b02922485ca56d696292e673a9.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/00ae3e7da4a648d09606f8fa5ec28cd4.jpg",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/47496a190e404e9d867b46aa9560e32b.webp",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1293,18 +1293,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-cypress-creek-cottage",
     "name": "The Cypress Creek Cottage",
-    "tagline": "Beautiful 3-bedroom single-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath single-wide featuring 1,080 sq ft of open living space",
     "sectionType": "Single-Wide",
     "price": 82000,
     "startingEstMonthly": 459,
     "beds": 3,
     "baths": 2,
     "sqft": 1080,
-    "dimensions": "16' x 64'",
+    "dimensions": "42' x 58'",
     "style": "Rustic Cottage",
-    "description": "Designed for warmth and hospitality! The Cypress Creek Cottage offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Cypress Creek Cottage is a precision factory-built single-wide offering 3 bedrooms, 2 bathrooms, and 1,080 sq ft of climate-controlled luxury (42' x 58'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,080 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1330,7 +1330,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/850b529b5f254b21be3a32500f7507d8.jpg",
       "https://regentstorage.blob.core.windows.net/regent-public/551ba7cda5b141108b9d097d249f8cb8.jpg"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/f04cdf434716472f929006993bdc23d6.jpg",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/52fd5d3f4967408097f0041a1fc9dde5.png",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1340,7 +1340,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-churchill",
     "name": "The Churchill",
-    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 149000,
     "startingEstMonthly": 834,
@@ -1349,9 +1349,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1680,
     "dimensions": "28' x 64'",
     "style": "Craftsman Haven",
-    "description": "Designed for warmth and hospitality! The Churchill offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Churchill is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (28' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1387,7 +1387,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-crown",
     "name": "The Crown",
-    "tagline": "Beautiful 4-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 4-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 152000,
     "startingEstMonthly": 851,
@@ -1396,9 +1396,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1680,
     "dimensions": "28' x 64'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Crown offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Crown is a precision factory-built double-wide offering 4 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (28' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Bedrooms & 2 Baths",
+      "4 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1434,7 +1434,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-ridge",
     "name": "The Ridge",
-    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 136000,
     "startingEstMonthly": 762,
@@ -1443,9 +1443,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1680,
     "dimensions": "28' x 64'",
     "style": "Rustic Cottage",
-    "description": "Designed for warmth and hospitality! The Ridge offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Ridge is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (28' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1481,7 +1481,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-summit",
     "name": "The Summit",
-    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 210000,
     "startingEstMonthly": 1176,
@@ -1490,9 +1490,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 2250,
     "dimensions": "32' x 76'",
     "style": "Minimalist Lodge",
-    "description": "Designed for warmth and hospitality! The Summit offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Summit is a precision factory-built modular offering 3 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (32' x 76'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1528,7 +1528,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-browning",
     "name": "The Browning",
-    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 137500,
     "startingEstMonthly": 770,
@@ -1537,9 +1537,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1680,
     "dimensions": "28' x 64'",
     "style": "Modern Farmhouse",
-    "description": "Designed for warmth and hospitality! The Browning offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Browning is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (28' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1575,7 +1575,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-remington",
     "name": "The Remington",
-    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 144000,
     "startingEstMonthly": 806,
@@ -1584,9 +1584,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1680,
     "dimensions": "28' x 64'",
     "style": "Craftsman Haven",
-    "description": "Designed for warmth and hospitality! The Remington offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Remington is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (28' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1622,18 +1622,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-paris",
     "name": "The Paris",
-    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 202000,
     "startingEstMonthly": 1131,
     "beds": 3,
     "baths": 2,
     "sqft": 2250,
-    "dimensions": "32' x 76'",
+    "dimensions": "32' x 64'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Paris offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Paris is a precision factory-built modular offering 3 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (32' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1659,7 +1659,7 @@ export const INITIAL_HOMES: HomeModel[] = [
       "https://regentstorage.blob.core.windows.net/regent-public/c6db5f3fa8b441bb9dfdd7ea5cad22ad.webp",
       "https://regentstorage.blob.core.windows.net/regent-public/27ed2f4fcd0f41d19327d01ad1653d54.webp"
     ],
-    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/4b363a3ea8824eb9b2e9ad93dff6a237.png",
+    "floorPlanUrl": "https://regentstorage.blob.core.windows.net/regent-public/31fe279cfdcb4e0383172e2b1dd19e04.jpg",
     "virtualTour3dUrl": "https://my.matterport.com/show/?m=sample",
     "isFeatured": false,
     "isBestSeller": false,
@@ -1669,18 +1669,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-rosedale",
     "name": "The Rosedale",
-    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 218000,
     "startingEstMonthly": 1221,
     "beds": 3,
     "baths": 2,
     "sqft": 2250,
-    "dimensions": "32' x 76'",
+    "dimensions": "28' x 60'",
     "style": "Craftsman Haven",
-    "description": "Designed for warmth and hospitality! The Rosedale offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Rosedale is a precision factory-built modular offering 3 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (28' x 60'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1716,7 +1716,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-forest-manor-3523b",
     "name": "The Forest Manor 3523B",
-    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 228000,
     "startingEstMonthly": 1277,
@@ -1725,9 +1725,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 2250,
     "dimensions": "32' x 76'",
     "style": "Minimalist Lodge",
-    "description": "Designed for warmth and hospitality! The Forest Manor 3523B offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Forest Manor 3523B is a precision factory-built modular offering 3 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (32' x 76'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1763,18 +1763,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-creole",
     "name": "The Creole",
-    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 146000,
     "startingEstMonthly": 818,
     "beds": 3,
     "baths": 2,
     "sqft": 1680,
-    "dimensions": "28' x 64'",
+    "dimensions": "32' x 60'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Creole offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Creole is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (32' x 60'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1810,7 +1810,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-dauphine",
     "name": "The Dauphine",
-    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 149500,
     "startingEstMonthly": 837,
@@ -1819,9 +1819,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1680,
     "dimensions": "28' x 64'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Dauphine offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Dauphine is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (28' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1857,18 +1857,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-tulane",
     "name": "The Tulane",
-    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 151000,
     "startingEstMonthly": 846,
     "beds": 3,
     "baths": 2,
     "sqft": 1680,
-    "dimensions": "28' x 64'",
+    "dimensions": "16' x 80'",
     "style": "Modern Farmhouse",
-    "description": "Designed for warmth and hospitality! The Tulane offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Tulane is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (16' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1904,18 +1904,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-ascent",
     "name": "The Ascent",
-    "tagline": "Beautiful 4-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 4-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 195000,
     "startingEstMonthly": 1092,
     "beds": 4,
     "baths": 2,
     "sqft": 2250,
-    "dimensions": "32' x 76'",
+    "dimensions": "28' x 72'",
     "style": "Modern Farmhouse",
-    "description": "Designed for warmth and hospitality! The Ascent offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Ascent is a precision factory-built modular offering 4 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (28' x 72'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Bedrooms & 2 Baths",
+      "4 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1951,18 +1951,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-hudson",
     "name": "The Hudson",
-    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 208000,
     "startingEstMonthly": 1165,
     "beds": 3,
     "baths": 2,
     "sqft": 2250,
-    "dimensions": "32' x 76'",
+    "dimensions": "16' x 80'",
     "style": "Craftsman Haven",
-    "description": "Designed for warmth and hospitality! The Hudson offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Hudson is a precision factory-built modular offering 3 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (16' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -1998,7 +1998,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-shoreline",
     "name": "The Shoreline",
-    "tagline": "Beautiful 4-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 4-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 212000,
     "startingEstMonthly": 1187,
@@ -2007,9 +2007,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 2250,
     "dimensions": "32' x 76'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Shoreline offers 4 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Shoreline is a precision factory-built modular offering 4 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (32' x 76'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "4 Bedrooms & 2 Baths",
+      "4 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -2045,7 +2045,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-bayshore",
     "name": "The Bayshore",
-    "tagline": "Beautiful 2-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 2-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 133000,
     "startingEstMonthly": 745,
@@ -2054,9 +2054,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1680,
     "dimensions": "28' x 64'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Bayshore offers 2 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Bayshore is a precision factory-built double-wide offering 2 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (28' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "2 Bedrooms & 2 Baths",
+      "2 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -2092,18 +2092,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-boulder",
     "name": "The Boulder",
-    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 199000,
     "startingEstMonthly": 1114,
     "beds": 3,
     "baths": 2,
     "sqft": 2250,
-    "dimensions": "32' x 76'",
+    "dimensions": "32' x 60'",
     "style": "Minimalist Lodge",
-    "description": "Designed for warmth and hospitality! The Boulder offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Boulder is a precision factory-built modular offering 3 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (32' x 60'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -2139,7 +2139,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-montana",
     "name": "The Montana",
-    "tagline": "Beautiful 3-bedroom modular featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath modular featuring 2,250 sq ft of open living space",
     "sectionType": "Modular",
     "price": 222000,
     "startingEstMonthly": 1243,
@@ -2148,9 +2148,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 2250,
     "dimensions": "32' x 76'",
     "style": "Craftsman Haven",
-    "description": "Designed for warmth and hospitality! The Montana offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Montana is a precision factory-built modular offering 3 bedrooms, 2 bathrooms, and 2,250 sq ft of climate-controlled luxury (32' x 76'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (2,250 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -2186,18 +2186,18 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-ashbank",
     "name": "The Ashbank",
-    "tagline": "Beautiful 3-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 3-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 139500,
     "startingEstMonthly": 781,
     "beds": 3,
     "baths": 2,
     "sqft": 1680,
-    "dimensions": "28' x 64'",
+    "dimensions": "16' x 80'",
     "style": "Modern Farmhouse",
-    "description": "Designed for warmth and hospitality! The Ashbank offers 3 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Ashbank is a precision factory-built double-wide offering 3 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (16' x 80'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "3 Bedrooms & 2 Baths",
+      "3 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
@@ -2233,7 +2233,7 @@ export const INITIAL_HOMES: HomeModel[] = [
   {
     "id": "the-sanibel",
     "name": "The Sanibel",
-    "tagline": "Beautiful 2-bedroom double-wide featuring open living space & factory precision",
+    "tagline": "Spacious 2-bedroom, 2-bath double-wide featuring 1,680 sq ft of open living space",
     "sectionType": "Double-Wide",
     "price": 147000,
     "startingEstMonthly": 823,
@@ -2242,9 +2242,9 @@ export const INITIAL_HOMES: HomeModel[] = [
     "sqft": 1680,
     "dimensions": "28' x 64'",
     "style": "Southern Elegance",
-    "description": "Designed for warmth and hospitality! The Sanibel offers 2 bedrooms, 2 baths, an open kitchen layout, and energy-efficient construction.",
+    "description": "The The Sanibel is a precision factory-built double-wide offering 2 bedrooms, 2 bathrooms, and 1,680 sq ft of climate-controlled luxury (28' x 64'). Designed with an open kitchen island, vaulted ceilings, and high-efficiency Energy Star insulation.",
     "highlights": [
-      "2 Bedrooms & 2 Baths",
+      "2 Bedrooms & 2 Bathrooms (1,680 sq ft)",
       "Open-Concept Living & Dining Area",
       "Energy Star® Certified High-Efficiency Insulation"
     ],
