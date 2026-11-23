@@ -66,17 +66,6 @@ export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
             <span>All Content</span>
           </button>
           <button
-            onClick={() => setActiveTab('stories')}
-            className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition-all flex items-center space-x-2 ${
-              activeTab === 'stories'
-                ? 'bg-hearth-600 text-white shadow'
-                : 'text-cozy-700 hover:bg-cozy-100'
-            }`}
-          >
-            <HeartHandshake className="w-4 h-4" />
-            <span>Customer Stories</span>
-          </button>
-          <button
             onClick={() => setActiveTab('guides')}
             className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition-all flex items-center space-x-2 ${
               activeTab === 'guides'
@@ -87,17 +76,28 @@ export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
             <BookOpen className="w-4 h-4" />
             <span>Buyer Guides</span>
           </button>
+          <button
+            onClick={() => setActiveTab('stories')}
+            className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition-all flex items-center space-x-2 ${
+              activeTab === 'stories'
+                ? 'bg-hearth-600 text-white shadow'
+                : 'text-cozy-700 hover:bg-cozy-100'
+            }`}
+          >
+            <HeartHandshake className="w-4 h-4" />
+            <span>Customer Stories</span>
+          </button>
         </div>
       </div>
 
-      {/* Main Combined Content Sections */}
+      {/* Main Combined Content Sections: Buyer Guides FIRST, Stories SECOND */}
       <div className="space-y-16">
-        {(activeTab === 'all' || activeTab === 'stories') && (
-          <Testimonials />
-        )}
-
         {(activeTab === 'all' || activeTab === 'guides') && (
           <BlogResources />
+        )}
+
+        {(activeTab === 'all' || activeTab === 'stories') && (
+          <Testimonials />
         )}
       </div>
 
