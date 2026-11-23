@@ -88,7 +88,9 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
             </div>
             <div className="flex items-center space-x-2">
               <Mail className="w-4 h-4 text-hearth-400 flex-shrink-0" />
-              <span>info@mobilehomes.com</span>
+              <a href="mailto:mobilehomedealership7@gmail.com" className="hover:text-hearth-300 transition-colors">
+                mobilehomedealership7@gmail.com
+              </a>
             </div>
           </div>
         </div>
