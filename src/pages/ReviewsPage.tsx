@@ -1,15 +1,18 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Testimonials } from '../components/Testimonials';
+import { BlogResources } from '../components/BlogResources';
 import { RoutePath } from '../router/useRouter';
-import { Star } from 'lucide-react';
+import { Star, BookOpen, HeartHandshake, ShieldCheck, CheckCircle2 } from 'lucide-react';
 
 interface ReviewsPageProps {
-  onNavigate: (path: RoutePath) => void;
+  onNavigate: (path: RoutePath, params?: Record<string, string>) => void;
 }
 
 export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
+  const [activeTab, setActiveTab] = useState<'all' | 'stories' | 'guides'>('all');
+
   return (
-    <div className="space-y-8 pb-16">
+    <div className="space-y-12 pb-16">
 
       {/* Page Header */}
       <div className="bg-gradient-to-r from-cozy-900 via-hearth-950 to-cozy-900 text-white py-16 px-4 sm:px-6 lg:px-8">
@@ -17,30 +20,86 @@ export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
           <div className="flex justify-center md:justify-start items-center space-x-2 text-xs font-semibold text-hearth-300">
             <button onClick={() => onNavigate('home')} className="hover:underline">Home</button>
             <span>/</span>
-            <span className="text-white">Customer Stories</span>
+            <span className="text-white">Stories & Guides</span>
           </div>
 
           <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-white">
-            Real Homeowner Stories & Ratings
+            Homeowner Stories & Buyer Guides
           </h1>
 
           <p className="text-cozy-200 text-sm sm:text-base max-w-2xl leading-relaxed">
-            See how over 12,500 families across the USA found their forever home with Mobile Homes. Read verified customer reviews and experiences.
+            Read authentic experiences from over 12,500 real families across the Southeast and explore expert checklists on site preparation, foundation setup, and floor plan selection.
           </p>
 
-          <div className="pt-2 flex items-center justify-center md:justify-start space-x-2 text-hearth-300 text-sm font-bold">
-            <div className="flex space-x-1">
-              {Array.from({ length: 5 }).map((_, i) => (
-                <Star key={i} className="w-5 h-5 text-hearth-400 fill-hearth-400" />
-              ))}
+          <div className="pt-2 flex flex-wrap items-center justify-center md:justify-start gap-4 text-hearth-300 text-xs sm:text-sm font-bold">
+            <div className="flex items-center space-x-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+              <div className="flex space-x-0.5">
+                {Array.from({ length: 5 }).map((_, i) => (
+                  <Star key={i} className="w-4 h-4 text-hearth-400 fill-hearth-400" />
+                ))}
+              </div>
+              <span className="text-white">4.9 / 5.0 Rating</span>
             </div>
-            <span>4.9 out of 5 Stars (450+ Verified Reviews)</span>
+            <div className="flex items-center space-x-1.5 text-cozy-200">
+              <CheckCircle2 className="w-4 h-4 text-hearth-400" />
+              <span>100% Verified Homebuyers</span>
+            </div>
+            <div className="flex items-center space-x-1.5 text-cozy-200">
+              <ShieldCheck className="w-4 h-4 text-hearth-400" />
+              <span>10-Year Protection Backed</span>
+            </div>
           </div>
         </div>
       </div>
 
-      {/* Main Testimonials Grid */}
-      <Testimonials />
+      {/* Navigation Filter Bar */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="bg-white rounded-2xl p-2 border border-cozy-200 shadow-cozy inline-flex space-x-2">
+          <button
+            onClick={() => setActiveTab('all')}
+            className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition-all flex items-center space-x-2 ${
+              activeTab === 'all'
+                ? 'bg-hearth-600 text-white shadow'
+                : 'text-cozy-700 hover:bg-cozy-100'
+            }`}
+          >
+            <span>All Content</span>
+          </button>
+          <button
+            onClick={() => setActiveTab('stories')}
+            className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition-all flex items-center space-x-2 ${
+              activeTab === 'stories'
+                ? 'bg-hearth-600 text-white shadow'
+                : 'text-cozy-700 hover:bg-cozy-100'
+            }`}
+          >
+            <HeartHandshake className="w-4 h-4" />
+            <span>Customer Stories</span>
+          </button>
+          <button
+            onClick={() => setActiveTab('guides')}
+            className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition-all flex items-center space-x-2 ${
+              activeTab === 'guides'
+                ? 'bg-hearth-600 text-white shadow'
+                : 'text-cozy-700 hover:bg-cozy-100'
+            }`}
+          >
+            <BookOpen className="w-4 h-4" />
+            <span>Buyer Guides</span>
+          </button>
+        </div>
+      </div>
+
+      {/* Main Combined Content Sections */}
+      <div className="space-y-16">
+        {(activeTab === 'all' || activeTab === 'stories') && (
+          <Testimonials />
+        )}
+
+        {(activeTab === 'all' || activeTab === 'guides') && (
+          <BlogResources />
+        )}
+      </div>
 
     </div>
   );

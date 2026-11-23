@@ -26,8 +26,7 @@ export const Navbar: React.FC<NavbarProps> = ({
     { path: 'our-difference', label: 'Our Difference' },
     { path: 'stores', label: 'Locations' },
     { path: 'faqs', label: 'FAQs' },
-    { path: 'journal', label: 'Buyer Guides' },
-    { path: 'reviews', label: 'Stories' },
+    { path: 'reviews', label: 'Stories & Guides' },
   ];
 
   const handleNavClick = (path: RoutePath) => {

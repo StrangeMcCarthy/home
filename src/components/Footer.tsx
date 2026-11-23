@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Phone, Mail, MapPin, Heart, Send, CheckCircle2 } from 'lucide-react';
+import { Phone, Mail, MapPin, Send, CheckCircle2 } from 'lucide-react';
 import { RoutePath } from '../router/useRouter';
 
 interface FooterProps {
@@ -130,22 +130,22 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
         {/* Homebuyer Resources */}
         <div className="space-y-3">
           <h4 className="font-serif text-sm font-bold text-white uppercase tracking-wider">
-            Resources & Tools
+            Resources & Stories
           </h4>
           <ul className="space-y-2 text-xs text-cozy-300 font-medium">
             <li>
-              <button onClick={() => onNavigate('faqs')} className="hover:text-hearth-300 transition-colors">
-                Frequently Asked Questions
+              <button onClick={() => onNavigate('reviews')} className="hover:text-hearth-300 transition-colors">
+                Homeowner Stories & Reviews
+              </button>
+            </li>
+            <li>
+              <button onClick={() => onNavigate('reviews')} className="hover:text-hearth-300 transition-colors">
+                Land Prep & Buyer Guides
               </button>
             </li>
             <li>
               <button onClick={() => onNavigate('our-difference')} className="hover:text-hearth-300 transition-colors">
                 Our 4-Step Home Journey
-              </button>
-            </li>
-            <li>
-              <button onClick={() => onNavigate('journal')} className="hover:text-hearth-300 transition-colors">
-                Land Preparation Checklist
               </button>
             </li>
             <li>
@@ -168,8 +168,8 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               </button>
             </li>
             <li>
-              <button onClick={() => onNavigate('reviews')} className="hover:text-hearth-300 transition-colors">
-                Customer Testimonials
+              <button onClick={() => onNavigate('faqs')} className="hover:text-hearth-300 transition-colors">
+                Frequently Asked Questions
               </button>
             </li>
             <li>

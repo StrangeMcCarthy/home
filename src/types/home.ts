@@ -81,12 +81,12 @@ export interface CustomerReview {
   author: string;
   location: string;
   rating: number;
-  date: string;
-  homeModelBought: string;
+  homeModel: string;
+  title: string;
   quote: string;
-  story: string;
-  photo: string;
-  verifiedBuyer: boolean;
+  avatarUrl: string;
+  verified: boolean;
+  purchaseYear: string;
 }
 
 export interface FilterState {
