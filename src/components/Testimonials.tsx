@@ -294,27 +294,18 @@ export const Testimonials: React.FC = () => {
 
               {/* Author Footer Info */}
               <div className="pt-4 border-t border-cozy-100 flex items-center justify-between">
-                <div className="flex items-center space-x-3">
-                  <img
-                    src={review.avatarUrl}
-                    alt={review.author}
-                    loading="lazy"
-                    decoding="async"
-                    className="w-11 h-11 rounded-full object-cover border-2 border-hearth-200 shadow-sm"
-                  />
-                  <div>
-                    <div className="font-bold text-cozy-900 text-sm flex items-center space-x-1.5">
-                      <span>{review.author}</span>
-                      {review.verified && (
-                        <span title="Verified Homebuyer">
-                          <CheckCircle2 className="w-4 h-4 text-hearth-600 flex-shrink-0" />
-                        </span>
-                      )}
-                    </div>
-                    <div className="text-xs text-cozy-500 flex items-center space-x-1">
-                      <MapPin className="w-3 h-3 text-hearth-500" />
-                      <span>{review.location} • Bought in {review.purchaseYear}</span>
-                    </div>
+                <div>
+                  <div className="font-bold text-cozy-900 text-sm flex items-center space-x-1.5">
+                    <span>{review.author}</span>
+                    {review.verified && (
+                      <span title="Verified Homebuyer">
+                        <CheckCircle2 className="w-4 h-4 text-hearth-600 flex-shrink-0" />
+                      </span>
+                    )}
+                  </div>
+                  <div className="text-xs text-cozy-500 flex items-center space-x-1 mt-0.5">
+                    <MapPin className="w-3 h-3 text-hearth-500" />
+                    <span>{review.location} • Bought in {review.purchaseYear}</span>
                   </div>
                 </div>
               </div>
