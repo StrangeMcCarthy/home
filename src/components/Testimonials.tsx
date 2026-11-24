@@ -305,7 +305,7 @@ export const Testimonials: React.FC = () => {
                   </div>
                   <div className="text-xs text-cozy-500 flex items-center space-x-1 mt-0.5">
                     <MapPin className="w-3 h-3 text-hearth-500" />
-                    <span>{review.location} • Bought in {review.purchaseYear}</span>
+                    <span>{review.location}</span>
                   </div>
                 </div>
               </div>
