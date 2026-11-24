@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ArrowRight, Sparkles, MapPin, CheckCircle2 } from 'lucide-react';
+import { ArrowRight, MapPin, CheckCircle2 } from 'lucide-react';
 
 interface HeroProps {
   onExploreClick: () => void;
@@ -37,12 +37,6 @@ export const Hero: React.FC<HeroProps> = ({ onExploreClick, onStoreClick }) => {
 
       <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
         <div className="max-w-3xl space-y-6">
-
-          {/* Soft Enticing Tag Badge */}
-          <div className="inline-flex items-center space-x-2 bg-hearth-500/20 border border-hearth-400/40 backdrop-blur-md px-4 py-1.5 rounded-full text-hearth-200 text-xs sm:text-sm font-semibold tracking-wide shadow-sm">
-            <Sparkles className="w-4 h-4 text-hearth-400" />
-            <span>Precision-Engineered Pre-Made & Modular Homes</span>
-          </div>
 
           {/* Warm Headline */}
           <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight drop-shadow-md">

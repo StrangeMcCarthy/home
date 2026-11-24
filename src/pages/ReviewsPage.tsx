@@ -1,16 +1,14 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Testimonials } from '../components/Testimonials';
 import { BlogResources } from '../components/BlogResources';
 import { RoutePath } from '../router/useRouter';
-import { Star, BookOpen, HeartHandshake, ShieldCheck, CheckCircle2 } from 'lucide-react';
+import { Star, ShieldCheck, CheckCircle2 } from 'lucide-react';
 
 interface ReviewsPageProps {
   onNavigate: (path: RoutePath, params?: Record<string, string>) => void;
 }
 
 export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
-  const [activeTab, setActiveTab] = useState<'all' | 'stories' | 'guides'>('all');
-
   return (
     <div className="space-y-12 pb-16">
 
@@ -52,53 +50,10 @@ export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
         </div>
       </div>
 
-      {/* Navigation Filter Bar */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="bg-white rounded-2xl p-2 border border-cozy-200 shadow-cozy inline-flex space-x-2">
-          <button
-            onClick={() => setActiveTab('all')}
-            className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition-all flex items-center space-x-2 ${
-              activeTab === 'all'
-                ? 'bg-hearth-600 text-white shadow'
-                : 'text-cozy-700 hover:bg-cozy-100'
-            }`}
-          >
-            <span>All Content</span>
-          </button>
-          <button
-            onClick={() => setActiveTab('guides')}
-            className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition-all flex items-center space-x-2 ${
-              activeTab === 'guides'
-                ? 'bg-hearth-600 text-white shadow'
-                : 'text-cozy-700 hover:bg-cozy-100'
-            }`}
-          >
-            <BookOpen className="w-4 h-4" />
-            <span>Buyer Guides</span>
-          </button>
-          <button
-            onClick={() => setActiveTab('stories')}
-            className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition-all flex items-center space-x-2 ${
-              activeTab === 'stories'
-                ? 'bg-hearth-600 text-white shadow'
-                : 'text-cozy-700 hover:bg-cozy-100'
-            }`}
-          >
-            <HeartHandshake className="w-4 h-4" />
-            <span>Customer Stories</span>
-          </button>
-        </div>
-      </div>
-
-      {/* Main Combined Content Sections: Buyer Guides FIRST, Stories SECOND */}
+      {/* Main Combined Content Sections: Buyer Guides FIRST, Testimonials SECOND */}
       <div className="space-y-16">
-        {(activeTab === 'all' || activeTab === 'guides') && (
-          <BlogResources />
-        )}
-
-        {(activeTab === 'all' || activeTab === 'stories') && (
-          <Testimonials />
-        )}
+        <BlogResources />
+        <Testimonials />
       </div>
 
     </div>

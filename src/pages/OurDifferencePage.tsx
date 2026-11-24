@@ -1,6 +1,6 @@
 import React from 'react';
 import { OurDifference } from '../components/OurDifference';
-import { CheckCircle2, Factory } from 'lucide-react';
+import { CheckCircle2 } from 'lucide-react';
 import { RoutePath } from '../router/useRouter';
 
 interface OurDifferencePageProps {
@@ -49,10 +49,6 @@ export const OurDifferencePage: React.FC<OurDifferencePageProps> = ({
       {/* Factory vs Traditional Comparison Matrix */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         <div className="text-center max-w-2xl mx-auto space-y-3">
-          <div className="inline-flex items-center space-x-2 text-xs font-bold uppercase tracking-wider text-hearth-700 bg-hearth-100 px-3.5 py-1 rounded-full">
-            <Factory className="w-3.5 h-3.5" />
-            <span>Side-By-Side Comparison</span>
-          </div>
           <h2 className="font-serif text-3xl font-bold text-cozy-900">
             Factory Precision vs. Traditional Site Construction
           </h2>

@@ -9,7 +9,7 @@ import { BlogResources } from '../components/BlogResources';
 
 import { HomeModel, FilterState } from '../types/home';
 import { INITIAL_HOMES } from '../data/homesData';
-import { ArrowRight, Sparkles } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { RoutePath } from '../router/useRouter';
 
 interface HomePageProps {
@@ -60,10 +60,6 @@ export const HomePage: React.FC<HomePageProps> = ({
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-10 pt-6">
         <div className="flex flex-col md:flex-row justify-between items-start md:items-end gap-4 border-b border-cozy-200 pb-5">
           <div className="space-y-2">
-            <div className="inline-flex items-center space-x-2 text-xs font-bold uppercase tracking-wider text-hearth-700 bg-hearth-100 px-3.5 py-1 rounded-full">
-              <Sparkles className="w-3.5 h-3.5" />
-              <span>Handcrafted Highlights</span>
-            </div>
             <h2 className="font-serif text-3xl sm:text-4xl font-bold text-cozy-900">
               Featured Pre-Made Homes
             </h2>

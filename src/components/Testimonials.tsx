@@ -1,17 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Star, Quote, CheckCircle2, MapPin } from 'lucide-react';
 import { CUSTOMER_REVIEWS } from '../data/homesData';
 
 export const Testimonials: React.FC = () => {
-  const [selectedFilter, setSelectedFilter] = useState<string>('All');
-
-  const locations = ['All', 'Mississippi', 'Alabama', 'Texas', 'Louisiana'];
-
-  const filteredReviews = CUSTOMER_REVIEWS.filter((rev) => {
-    if (selectedFilter === 'All') return true;
-    return rev.location.toLowerCase().includes(selectedFilter.toLowerCase());
-  });
-
   return (
     <section id="reviews" className="py-16 bg-cozy-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
@@ -24,28 +15,11 @@ export const Testimonials: React.FC = () => {
           <p className="text-cozy-600 text-sm sm:text-base leading-relaxed">
             Read authentic stories from real homebuyers who built their dream single-wide, double-wide, and modular homes across the Southeast.
           </p>
-
-          {/* Location Filter Pills */}
-          <div className="pt-3 flex flex-wrap justify-center gap-2">
-            {locations.map((loc) => (
-              <button
-                key={loc}
-                onClick={() => setSelectedFilter(loc)}
-                className={`px-4 py-2 rounded-xl text-xs font-bold transition-all ${
-                  selectedFilter === loc
-                    ? 'bg-hearth-600 text-white shadow'
-                    : 'bg-white text-cozy-700 border border-cozy-200 hover:bg-cozy-100'
-                }`}
-              >
-                {loc}
-              </button>
-            ))}
-          </div>
         </div>
 
         {/* Testimonials Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {filteredReviews.map((review) => (
+          {CUSTOMER_REVIEWS.map((review) => (
             <div
               key={review.id}
               className="bg-white rounded-3xl p-6 sm:p-8 border border-cozy-200/90 shadow-cozy hover:shadow-cozy-lg transition-all duration-300 flex flex-col justify-between space-y-6 relative group"
